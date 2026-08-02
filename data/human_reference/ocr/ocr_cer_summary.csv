@@ -1,0 +1,4 @@
+﻿metric,n_pages,mean,bootstrap_ci_low,bootstrap_ci_high,source_column,sample_scope,reporting_note
+raw_ocr_cer_all_adjudicated_pages,51,0.1491361956251316,0.11340433276998327,0.18943271523724547,raw_cer,All pages with non-empty adjudicated manual transcription.,Report as raw OCR CER for the 51-page adjudicated sample.
+cleaned_ocr_cer_raw_cleaned_paired_subset,17,0.011398914435475263,0.002182881853327675,0.02590962496165851,cleaned_cer,Only adjudicated pages that also have a corresponding cleaned OCR text.,Report as cleaned OCR CER in the raw/cleaned paired subset only; do not generalise to all 51 adjudicated pages.
+cleaned_minus_raw_cer_paired_subset,17,-0.26390346278350635,-0.35221600106831985,-0.18121778322492132,delta_cleaned_minus_raw_cer,Only adjudicated pages that also have a corresponding cleaned OCR text.,Report as a paired subset difference; negative values indicate lower CER after cleaning.

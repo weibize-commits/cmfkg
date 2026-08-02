@@ -1,0 +1,25 @@
+{
+  "status": "human_revalidated_gold_evaluated",
+  "evaluated_at_utc": "2026-07-31T09:30:02.620431+00:00",
+  "independent_unit": "passage",
+  "bootstrap_rounds": 5000,
+  "seed": 20260731,
+  "test_passages": 65,
+  "candidate_pairs": 1162,
+  "label_counts": {
+    "present": 445,
+    "absent": 575,
+    "insufficient_context": 97,
+    "entity_or_type_error": 45
+  },
+  "source_counts": {
+    "two_expert_agreement": 1065,
+    "third_expert_adjudication": 97
+  },
+  "expert3_adjudication_sha256": "57454A3851787B6CCF7BE07C396F8D13D2B65DDCE90D2EA37647B6F5DF8CEBE7",
+  "pairwise_merged_sha256": "71C1F4890B80D6401403FB280A11E9F56816ABF5A2422E9635EEE41A7A2CF96D",
+  "final_labels_sha256": "89230A1F3449371E72C90526A963EEEB5E2F24090C3A54E05030C2E09FD1E2BF",
+  "gold_positive_sha256": "CD3465B163C9303BEE01EA675E62A91F2D74624A3C2E4CA10EC7351270D19F1F",
+  "metrics_sha256": "2814DC60CA1226EEB8BCFAA47A6F912F0075814F1C7F146FF83E52B2F47499DC",
+  "paired_bootstrap_sha256": "D5FB9E223AD2468205916AC152DBCBC64C57F7E9C560CC28123F772CD783FE9F"
+}

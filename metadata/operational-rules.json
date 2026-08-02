@@ -1,0 +1,201 @@
+{
+  "schema_version": "0.2.1-revision12",
+  "terminology": "operational rule specification",
+  "engine": "custom Python forward-chaining and filtering pipeline",
+  "swrl_compliance_note": "A and B are Horn-style graph rules. C and D use keyword tests, closed-world checks, filtering, warning creation, or ordering and are therefore application rules rather than OWL/SWRL entailments.",
+  "rules": [
+    {
+      "id": "A1",
+      "name": "recipe nature inheritance",
+      "antecedent": [
+        "FoodTherapyRecipe(r)",
+        "containsIngredient(r,i)",
+        "hasNature(i,n)"
+      ],
+      "consequent": [
+        "hasNature(r,n)"
+      ],
+      "implementation": "swrl/run_rules_a.py:get_rule_a1",
+      "post_filter": "n must occur in VALID_NATURES",
+      "raw_output": 1593,
+      "retained_output": 866,
+      "status": "executed"
+    },
+    {
+      "id": "A2",
+      "name": "recipe flavour inheritance",
+      "antecedent": [
+        "FoodTherapyRecipe(r)",
+        "containsIngredient(r,i)",
+        "hasFlavor(i,f)"
+      ],
+      "consequent": [
+        "hasFlavor(r,f)"
+      ],
+      "implementation": "swrl/run_rules_a.py:get_rule_a2",
+      "post_filter": "f must occur in VALID_FLAVORS",
+      "raw_output": 844,
+      "retained_output": 495,
+      "status": "executed"
+    },
+    {
+      "id": "A3",
+      "name": "recipe meridian inheritance",
+      "antecedent": [
+        "FoodTherapyRecipe(r)",
+        "containsIngredient(r,i)",
+        "entersmeridian(i,m)"
+      ],
+      "consequent": [
+        "entersmeridian(r,m)"
+      ],
+      "implementation": "swrl/run_rules_a.py:get_rule_a3",
+      "post_filter": "m must occur in VALID_MERIDIANS",
+      "raw_output": 2310,
+      "retained_output": 873,
+      "status": "executed"
+    },
+    {
+      "id": "B1",
+      "name": "ingredient meridian organ disease candidate",
+      "antecedent": [
+        "FoodIngredient(i)",
+        "entersmeridian(i,m)",
+        "correspondsToOrgan(m,o)",
+        "DiseaseSymptom(d)",
+        "affectsOrgan(d,o)"
+      ],
+      "consequent": [
+        "candidateTreats(i,d)"
+      ],
+      "legacy_antecedent": [
+        "FoodIngredient(i)",
+        "correspondsToOrgan(i,o)",
+        "DiseaseSymptom(d)",
+        "affectsOrgan(d,o)"
+      ],
+      "implementation": "swrl/run_rules_b.py:get_rule_b1",
+      "legacy_output": 0,
+      "corrected_candidate_population": 189483,
+      "human_validation_sample": 100,
+      "human_supported": 0,
+      "status": "corrected_rerun_with_blind_output_validation",
+      "note": "The released relation schema defines correspondsToOrgan from MeridianChannel to InternalOrgan. The legacy rule used FoodIngredient as its subject and could not fire. The corrected rule was rerun against the frozen graph; its outputs remain traditional-theory candidates rather than diagnostic or clinical facts."
+    },
+    {
+      "id": "B2",
+      "name": "recipe historical-use candidate propagation",
+      "antecedent": [
+        "FoodTherapyRecipe(r)",
+        "containsIngredient(r,i)",
+        "treats(i,d)"
+      ],
+      "consequent": [
+        "candidateTreats(r,d)"
+      ],
+      "implementation": "swrl/run_rules_b.py:get_rule_b2",
+      "corrected_candidate_population": 27525,
+      "human_validation_sample": 100,
+      "human_supported": 42,
+      "status": "corrected_rerun_with_blind_output_validation",
+      "note": "The corrected rerun records candidateTreats with rule-level provenance. Outputs remain traditional-theory candidates rather than diagnostic or clinical facts."
+    },
+    {
+      "id": "B3",
+      "name": "recipe ingredient reverse candidate propagation",
+      "antecedent": [
+        "DiseaseSymptom(d)",
+        "treatedByRecipe(d,r)",
+        "containsIngredient(r,i)"
+      ],
+      "consequent": [
+        "candidateTreats(i,d)"
+      ],
+      "implementation": "swrl/run_rules_b.py:get_rule_b3",
+      "corrected_candidate_population": 1045,
+      "human_validation_sample": 100,
+      "human_supported": 8,
+      "status": "corrected_rerun_with_blind_output_validation",
+      "note": "The corrected rerun records candidateTreats with rule-level provenance. Outputs remain traditional-theory candidates rather than diagnostic or clinical facts."
+    },
+    {
+      "id": "C1",
+      "name": "nature treatment review flag",
+      "condition": "An ingredient with a hot or warm nature treats a disease string containing a hot-pattern keyword, or a cold or cool ingredient treats a disease string containing a cold-pattern keyword.",
+      "action": "create high-severity review flag",
+      "implementation": "swrl/run_rules_c.py:rule_c1",
+      "output": 48,
+      "status": "executed_procedural_check"
+    },
+    {
+      "id": "C2",
+      "name": "meridian disease lexical mismatch flag",
+      "condition": "The organ keywords derived from an ingredient's meridian strings and a disease string have no overlap.",
+      "action": "create medium-severity review flag",
+      "implementation": "swrl/run_rules_c.py:rule_c2",
+      "output": 292,
+      "status": "executed_procedural_check"
+    },
+    {
+      "id": "C3",
+      "name": "treatment taboo lexical identity flag",
+      "condition": "The lexical object of treats equals the lexical object of contraindicates for the same ingredient.",
+      "action": "create critical review flag",
+      "implementation": "swrl/run_rules_c.py:rule_c3",
+      "output": 1,
+      "status": "executed_but_requires_target_normalisation",
+      "note": "The formal range of contraindicates is DietaryTaboo, whereas the range of treats is DiseaseSymptom. The current check is lexical and should not be presented as an OWL contradiction."
+    },
+    {
+      "id": "D1",
+      "name": "general user source-text filter",
+      "condition": "role is general user and either endpoint is AncientText",
+      "action": "remove triple from the general-user view",
+      "implementation": "swrl/run_rules_d.py:apply_d1",
+      "status": "executed_application_policy"
+    },
+    {
+      "id": "D2",
+      "name": "general user single-source filter",
+      "condition": "role is general user and authority equals single",
+      "action": "remove triple from the general-user view",
+      "implementation": "swrl/run_rules_d.py:apply_d2",
+      "status": "executed_application_policy"
+    },
+    {
+      "id": "D3",
+      "name": "researcher retain-all policy",
+      "condition": "role is researcher",
+      "action": "retain all triples without rule-based removal",
+      "implementation": "swrl/run_rules_d.py:apply_d3",
+      "status": "executed_application_policy"
+    },
+    {
+      "id": "D4",
+      "name": "TCM-professional heritage source-ordering policy",
+      "condition": "role uses the legacy internal identifier clinician and relation uses the legacy technical predicate treats",
+      "action": "order source-supported historical-use records before less-supported records",
+      "implementation": "swrl/run_rules_d.py:apply_d4",
+      "status": "executed_application_policy"
+    }
+  ],
+  "saved_outputs": {
+    "A_raw": 4747,
+    "A_retained_after_vocabulary_filter": 2234,
+    "A_rejected": 2513,
+    "B_legacy_combined_candidates": 49099,
+    "B_corrected_B1_candidates": 189483,
+    "B_corrected_B2_candidates": 27525,
+    "B_corrected_B3_candidates": 1045,
+    "B_human_validation_sample": 300,
+    "B_human_supported_B1": 0,
+    "B_human_supported_B2": 42,
+    "B_human_supported_B3": 8,
+    "B_rule_level_provenance_available_for_corrected_rerun": true,
+    "C_review_flags": 341,
+    "D_general_user_view": 4417,
+    "D_clinician_view": 33805,
+    "D_researcher_view": 33805
+  },
+  "release_note": "Operational outputs are candidates, review flags or presentation policies; they are not modern clinical facts."
+}

@@ -1,0 +1,64 @@
+{
+  "all": {
+    "n": 300,
+    "exact_agreement_n": 229,
+    "exact_agreement_rate": 0.7633333333333333,
+    "cohen_kappa_unweighted": 0.6224542247904,
+    "expert1_distribution": {
+      "不支持": 158,
+      "不确定": 87,
+      "支持": 55
+    },
+    "expert2_distribution": {
+      "不支持": 141,
+      "不确定": 80,
+      "支持": 79
+    }
+  },
+  "B1": {
+    "n": 100,
+    "exact_agreement_n": 100,
+    "exact_agreement_rate": 1.0,
+    "cohen_kappa_unweighted": 1.0,
+    "expert1_distribution": {
+      "不支持": 99,
+      "不确定": 1
+    },
+    "expert2_distribution": {
+      "不支持": 99,
+      "不确定": 1
+    }
+  },
+  "B2": {
+    "n": 100,
+    "exact_agreement_n": 67,
+    "exact_agreement_rate": 0.67,
+    "cohen_kappa_unweighted": 0.4171670787707525,
+    "expert1_distribution": {
+      "不确定": 47,
+      "支持": 42,
+      "不支持": 11
+    },
+    "expert2_distribution": {
+      "不确定": 40,
+      "支持": 58,
+      "不支持": 2
+    }
+  },
+  "B3": {
+    "n": 100,
+    "exact_agreement_n": 62,
+    "exact_agreement_rate": 0.62,
+    "cohen_kappa_unweighted": 0.3954820235443843,
+    "expert1_distribution": {
+      "不支持": 48,
+      "不确定": 39,
+      "支持": 13
+    },
+    "expert2_distribution": {
+      "不支持": 40,
+      "不确定": 39,
+      "支持": 21
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "status": "complete",
+  "split": "dev",
+  "provider": "Beijing Institute of Technology GPUStack",
+  "base_url": "https://maas.bit.edu.cn/v1-openai",
+  "requested_model": "DeepSeek-v3.2-DP-cntrain09",
+  "returned_models": {
+    "DeepSeek-v3.2-DP-cntrain09": 87
+  },
+  "api_key_source": "environment variable BIT_GPUSTACK_API_KEY; value not stored",
+  "prompt_version": "cmfkg_relation_triage_v2_20260731",
+  "prompt_sha256": "2A9E76A8D52952A8727398B20E02D1867340DF0ECFA3BD7CAEAE54C8F8380A6D",
+  "chunk_size": 12,
+  "concurrency": 6,
+  "total_candidates": 849,
+  "total_batches": 87,
+  "successful_batches": 87,
+  "error_records": 0,
+  "decision_count": 849,
+  "label_distribution": {
+    "unsupported": 750,
+    "supported": 91,
+    "plausible": 8
+  },
+  "missing_decisions_filled_as_unsupported": 0,
+  "prompt_tokens": 264344,
+  "completion_tokens": 31946,
+  "candidate_path": "paper_revision\\relation_improvement\\data\\dev_candidates.jsonl",
+  "candidate_sha256": "BA7DD8E8748B06414B4CE1F95C40494936B9F5D641AD52C266D1E1888B7271AE",
+  "response_path": "paper_revision\\relation_improvement\\llm_runs\\dev\\responses.jsonl",
+  "response_sha256": "78292FB4A376705A49627BA00C9909F216D6A70BE69030654303076FF2E75E06",
+  "decision_path": "paper_revision\\relation_improvement\\outputs\\deepseek_triage_dev_decisions.jsonl",
+  "decision_sha256": "E188D4A6560570A4F2E9C0B9F3B847F55099534684045BBEDDF9A4D714D29820",
+  "python_version": "3.12.3 (tags/v3.12.3:f6650f9, Apr  9 2024, 14:05:25) [MSC v.1938 64 bit (AMD64)]",
+  "platform": "Windows-10-10.0.19045-SP0",
+  "generated_at_utc": "2026-07-31T08:26:43.371670+00:00"
+}

@@ -1,0 +1,2 @@
+﻿endpoint,comparison,independent_unit,n_pairs,SYS-R4_arithmetic_mean_seconds,SYS-T9_arithmetic_mean_seconds,geometric_mean_ratio,ci95_low,ci95_high,paired_log_t,p_value
+Mean completion time,SYS-R4 / SYS-T9,participant,100,128.8219696969697,157.70590909090907,0.7739208735187557,0.760435982485525,0.7876448935389969,-28.930183585028097,4.301344289416851e-50

@@ -1,0 +1,13 @@
+﻿metric,value
+total_rows,60
+transcriber_1_nonempty_rows,51
+transcriber_2_nonempty_rows,51
+adjudicated_nonempty_rows,51
+transcriber_1_unique_ids,1
+transcriber_2_unique_ids,1
+adjudicator_unique_ids,1
+t1_equals_t2_on_adjudicated_rows,0
+t1_equals_adjudicated_on_adjudicated_rows,0
+t2_equals_adjudicated_on_adjudicated_rows,51
+t1_t2_mean_normalized_edit_distance_on_adjudicated_rows,0.12947652958574332
+adjudication_reporting_note,"Adjudicator A01 reviewed the two independent transcriptions and selected the T2 transcription as the final adjudicated reference for all 51 included pages; this should be reported as an adjudication decision, not as automatic copying."

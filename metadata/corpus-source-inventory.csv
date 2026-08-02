@@ -1,0 +1,54 @@
+﻿source_id,archived_source_file,extraction_included,extraction_chunks,raw_entity_mentions,annotation_frame_included,annotation_frame_units,paired_reference_records,crosswalk_status,bibliographic_identity_status
+SF01,1.txt,True,8,0,False,0,0,extraction only,unresolved filename
+SF02,13 食宪鸿秘.txt,True,159,6285,True,23,22,shared source identifier,title-bearing filename; authority record not archived
+SF03,2.txt,True,10,0,False,0,0,extraction only,unresolved filename
+SF04,5、食品集/食品集.2卷附录1卷.明吴禄辑.嘉靖16年序刊.txt,True,8,0,False,0,0,extraction only,title-bearing filename; authority record not archived
+SF05,8996f7340uae72fc4f9f641ea0edcd19.txt,True,491,8280,True,23,23,shared source identifier,unresolved filename
+SF06,8e39fed12o25fb8578276afd09e356f0.txt,True,383,16682,True,26,26,shared source identifier,unresolved filename
+SF07,中国烹饪古籍丛书33种/01 云林堂饮食制度集.txt,True,48,1299,True,10,9,shared source identifier,title-bearing filename; authority record not archived
+SF08,中国烹饪古籍丛书33种/02 易牙遗意.txt,True,72,2372,True,15,15,shared source identifier,title-bearing filename; authority record not archived
+SF09,中国烹饪古籍丛书33种/03 中馈录.txt,True,17,415,True,6,6,shared source identifier,title-bearing filename; authority record not archived
+SF10,中国烹饪古籍丛书33种/04 醒园录.txt,True,62,2102,True,14,12,shared source identifier,title-bearing filename; authority record not archived
+SF11,中国烹饪古籍丛书33种/05 随园食单.txt,True,135,4200,True,20,20,shared source identifier,title-bearing filename; authority record not archived
+SF12,中国烹饪古籍丛书33种/06 素食说略.txt,True,61,2156,True,15,14,shared source identifier,title-bearing filename; authority record not archived
+SF13,中国烹饪古籍丛书33种/07 吕氏春秋本味篇.txt,True,87,1216,True,11,10,shared source identifier,title-bearing filename; authority record not archived
+SF14,中国烹饪古籍丛书33种/08 养小录.txt,True,100,3042,True,17,17,shared source identifier,title-bearing filename; authority record not archived
+SF15,中国烹饪古籍丛书33种/09 千金食治  食疗方.txt,True,241,12878,False,0,0,extraction only,title-bearing filename; authority record not archived
+SF16,中国烹饪古籍丛书33种/10 清异录（饮食部分）.txt,True,184,2086,True,17,15,shared source identifier,title-bearing filename; authority record not archived
+SF17,中国烹饪古籍丛书33种/11 闲情偶寄.txt,True,77,872,True,14,13,shared source identifier,title-bearing filename; authority record not archived
+SF18,中国烹饪古籍丛书33种/12 齐民要术（饮食部分）.txt,True,276,7014,True,27,26,shared source identifier,title-bearing filename; authority record not archived
+SF19,中国烹饪古籍丛书33种/13 食宪鸿秘.txt,True,159,6323,True,23,22,shared source identifier,title-bearing filename; authority record not archived
+SF20,中国烹饪古籍丛书33种/14 随息居饮食谱.txt,True,160,8470,True,23,22,shared source identifier,title-bearing filename; authority record not archived
+SF21,中国烹饪古籍丛书33种/15 饮馔服食笺.txt,True,170,7046,True,23,22,shared source identifier,title-bearing filename; authority record not archived
+SF22,中国烹饪古籍丛书33种/16 饮食须知.txt,True,115,2808,True,18,18,shared source identifier,title-bearing filename; authority record not archived
+SF23,中国烹饪古籍丛书33种/17 能改斋漫录（饮食部分）.txt,True,180,1558,True,16,15,shared source identifier,title-bearing filename; authority record not archived
+SF24,中国烹饪古籍丛书33种/18 先秦烹饪史料选注.txt,True,203,2511,True,20,20,shared source identifier,title-bearing filename; authority record not archived
+SF25,中国烹饪古籍丛书33种/19 吴氏中馈录  本心斋疏食谱  （外四种）.txt,True,60,1663,True,12,12,shared source identifier,title-bearing filename; authority record not archived
+SF26,中国烹饪古籍丛书33种/20 居家必用事类全集（饮食类）.txt,True,138,5516,True,20,19,shared source identifier,title-bearing filename; authority record not archived
+SF27,中国烹饪古籍丛书33种/21 造洋饭书.txt,True,76,2764,True,13,11,shared source identifier,title-bearing filename; authority record not archived
+SF28,中国烹饪古籍丛书33种/22 菽园杂记（饮食部分）、升庵外集（饮食部分） 、 饮食绅言（饮食部分）.txt,True,235,2385,True,20,19,shared source identifier,title-bearing filename; authority record not archived
+SF29,中国烹饪古籍丛书33种/23 粥谱（二种）.txt,True,86,5421,True,18,18,shared source identifier,title-bearing filename; authority record not archived
+SF30,中国烹饪古籍丛书33种/25 调鼎集.txt,True,596,33112,True,39,36,shared source identifier,title-bearing filename; authority record not archived
+SF31,中国烹饪古籍丛书33种/26 筵款丰馐依祥调鼎新录.txt,True,141,8026,True,14,13,shared source identifier,title-bearing filename; authority record not archived
+SF32,中国烹饪古籍丛书33种/27 饮膳正要.txt,True,549,17343,True,41,40,shared source identifier,title-bearing filename; authority record not archived
+SF33,中国烹饪古籍丛书33种/28 浪迹丛谈四种（饮食部分）.txt,True,83,1187,True,14,14,shared source identifier,title-bearing filename; authority record not archived
+SF34,中国烹饪古籍丛书33种/29 陆游饮食诗选注.txt,True,214,1255,True,20,17,shared source identifier,title-bearing filename; authority record not archived
+SF35,中国烹饪古籍丛书33种/30 随园食单补证.txt,True,480,17131,True,35,34,shared source identifier,title-bearing filename; authority record not archived
+SF36,中国烹饪古籍丛书33种/31 清嘉录.txt,True,363,4616,True,19,16,shared source identifier,title-bearing filename; authority record not archived
+SF37,中国烹饪古籍丛书33种/32 食疗本草.txt,True,382,16454,True,26,25,shared source identifier,title-bearing filename; authority record not archived
+SF38,中国烹饪古籍丛书33种/33 东京梦华录  都城纪胜  西湖老人繁胜录  梦粱录  武林旧事.txt,True,605,5154,True,24,22,shared source identifier,title-bearing filename; authority record not archived
+SF39,全一册.txt,True,4,0,False,0,0,extraction only,unresolved filename
+SF40,养老奉亲书_13767473.txt,True,594,23468,True,37,37,shared source identifier,title-bearing filename; authority record not archived
+SF41,刘民叔汤液/伊尹汤液经.txt,False,0,0,True,1,1,annotation frame only,title-bearing filename; authority record not archived
+SF42,千金翼方.三十卷.唐.孙思邈撰.清光绪四年景元大德梅溪书院本.txt,True,213,0,False,0,0,extraction only,title-bearing filename; authority record not archived
+SF43,"古刻新韵 野菜博录 (（明）鲍山编, 鮑山 etc.) (z-library.sk, 1lib.sk, z-lib.sk).txt",True,72,113,False,0,0,extraction only,title-bearing filename; authority record not archived
+SF44,备急千金要方.三十卷.唐.孙思邈撰.清光绪四年长洲黄学熙刊江户医学据北宋本影刻本.txt,True,312,0,False,0,0,extraction only,title-bearing filename; authority record not archived
+SF45,山家清供 96225339.txt,True,22,0,False,0,0,extraction only,title-bearing filename; authority record not archived
+SF46,新建文件夹33/本草通串证图.5册.木村雅经.山下守胤.山下弌胤.松浦守美.画.木版色刷.1853年.txt,True,9,0,False,0,0,extraction only,title-bearing filename; authority record not archived
+SF47,本草求真 清·黄宫绣 篡 席与民 朱肇和 点校 1987年_10461767.txt,True,717,41141,False,0,0,extraction only,title-bearing filename; authority record not archived
+SF48,随园食单（全本全注全译）中华书局2022.txt,True,296,4793,True,31,31,shared source identifier,title-bearing filename; authority record not archived
+SF49,随息居/中医古籍整理丛书--110随息居饮食谱-[清]王士雄.txt,True,157,8703,True,18,15,shared source identifier,title-bearing filename; authority record not archived
+SF50,随息居/随息居饮食谱(已优化).txt,True,8,0,False,0,0,extraction only,title-bearing filename; authority record not archived
+SF51,随息居/隨息居飲食譜.txt,True,16,0,False,0,0,extraction only,title-bearing filename; authority record not archived
+SF52,食物本草_14051796.txt,True,149,9799,True,20,19,shared source identifier,title-bearing filename; authority record not archived
+SF53,食鉴本草_14274304.txt,True,62,4129,True,17,17,shared source identifier,title-bearing filename; authority record not archived

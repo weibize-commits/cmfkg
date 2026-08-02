@@ -1,0 +1,9 @@
+﻿analysis_set,left_method,right_method,f1_difference,ci95_low,ci95_high,paired_bootstrap_two_sided_p,bootstrap_unit,bootstrap_rounds
+primary_present_vs_all_nonpresent,cmfkg_frozen_hybrid,fixed_charngram_comparator,-0.020593958879769836,-0.06275755371724241,0.021599642126129852,0.3251349730053989,passage,5000
+primary_present_vs_all_nonpresent,cmfkg_frozen_hybrid,local_symbolic_text,0.0,0.0,0.0,1.0,passage,5000
+primary_present_vs_all_nonpresent,cmfkg_frozen_hybrid,distance_trigger_heuristic,-0.10451516004881256,-0.19922638346121418,-0.012974914039636347,0.027994401119776045,passage,5000
+primary_present_vs_all_nonpresent,cmfkg_frozen_hybrid,deepseek_supported_or_plausible,-0.010355819763935514,-0.11336929176967885,0.1124818895933593,0.8434313137372526,passage,5000
+sensitivity_present_vs_absent_only,cmfkg_frozen_hybrid,fixed_charngram_comparator,-0.02089268755935425,-0.06516326427723633,0.02343904842642982,0.3411317736452709,passage,5000
+sensitivity_present_vs_absent_only,cmfkg_frozen_hybrid,local_symbolic_text,0.0,0.0,0.0,1.0,passage,5000
+sensitivity_present_vs_absent_only,cmfkg_frozen_hybrid,distance_trigger_heuristic,-0.10634089586969175,-0.20509848807756165,-0.009691050213230449,0.030393921215756847,passage,5000
+sensitivity_present_vs_absent_only,cmfkg_frozen_hybrid,deepseek_supported_or_plausible,0.005192107995846296,-0.10245161491417819,0.13157447902279007,0.9342131573685263,passage,5000

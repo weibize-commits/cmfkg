@@ -1,0 +1,58 @@
+item,panel,series,category,n,count,mean,sd,numerator,denominator,rate_percent,ci95_low,ci95_high,archive_source,interpretation
+Fig3,,canonical_entities,Ingredient,,20745,,,,,,,,kg_canonical_stats.json,canonical unique-entity count
+Fig3,,canonical_entities,Disease,,15222,,,,,,,,kg_canonical_stats.json,canonical unique-entity count
+Fig3,,canonical_entities,Effect,,11757,,,,,,,,kg_canonical_stats.json,canonical unique-entity count
+Fig3,,canonical_entities,Recipe,,9204,,,,,,,,kg_canonical_stats.json,canonical unique-entity count
+Fig3,,canonical_entities,Source text,,6065,,,,,,,,kg_canonical_stats.json,canonical unique-entity count
+Fig3,,canonical_entities,Contraindication,,5063,,,,,,,,kg_canonical_stats.json,canonical unique-entity count
+Fig3,,canonical_entities,Cooking method,,4676,,,,,,,,kg_canonical_stats.json,canonical unique-entity count
+Fig3,,canonical_entities,Health principle,,4604,,,,,,,,kg_canonical_stats.json,canonical unique-entity count
+Fig3,,canonical_entities,Physician,,3616,,,,,,,,kg_canonical_stats.json,canonical unique-entity count
+Fig3,,canonical_entities,Meridian,,1314,,,,,,,,kg_canonical_stats.json,canonical unique-entity count
+Fig3,,canonical_entities,Nature,,118,,,,,,,,kg_canonical_stats.json,canonical unique-entity count
+Fig3,,canonical_entities,Flavour,,91,,,,,,,,kg_canonical_stats.json,canonical unique-entity count
+Fig3,,canonical_entities,Organ,,47,,,,,,,,kg_canonical_stats.json,canonical unique-entity count
+Fig4,,GPT-4o-mini,Prompt 1,,,,0.5089,,,,,,prompt3_evaluation.json,strict exact-span-and-class micro-F1 on reused development passages
+Fig4,,GPT-4o-mini,Prompt 2,,,,0.5306,,,,,,prompt3_evaluation.json,strict exact-span-and-class micro-F1 on reused development passages
+Fig4,,GPT-4o-mini,Prompt 3,,,,0.5064,,,,,,prompt3_evaluation.json,strict exact-span-and-class micro-F1 on reused development passages
+Fig4,,DeepSeek-chat,Prompt 1,,,,0.5511,,,,,,prompt3_evaluation.json,strict exact-span-and-class micro-F1 on reused development passages
+Fig4,,DeepSeek-chat,Prompt 2,,,,0.5762,,,,,,prompt3_evaluation.json,strict exact-span-and-class micro-F1 on reused development passages
+Fig4,,DeepSeek-chat,Prompt 3,,,,0.5974,,,,,,prompt3_evaluation.json,strict exact-span-and-class micro-F1 on reused development passages
+Fig4,,GLM-4-plus,Prompt 1,,,,0.5516,,,,,,prompt3_evaluation.json,strict exact-span-and-class micro-F1 on reused development passages
+Fig4,,GLM-4-plus,Prompt 2,,,,0.5452,,,,,,prompt3_evaluation.json,strict exact-span-and-class micro-F1 on reused development passages
+Fig4,,GLM-4-plus,Prompt 3,,,,0.5372,,,,,,prompt3_evaluation.json,strict exact-span-and-class micro-F1 on reused development passages
+Fig4,,Qwen-max,Prompt 1,,,,0.5687,,,,,,prompt3_evaluation.json,strict exact-span-and-class micro-F1 on reused development passages
+Fig4,,Qwen-max,Prompt 2,,,,0.5592,,,,,,prompt3_evaluation.json,strict exact-span-and-class micro-F1 on reused development passages
+Fig4,,Qwen-max,Prompt 3,,,,0.5590,,,,,,prompt3_evaluation.json,strict exact-span-and-class micro-F1 on reused development passages
+Fig6,,type_derived_label,L1 Remember,,22268,,,,,,,,bloom_annotation_stats.json,deterministic type-to-label distribution
+Fig6,,type_derived_label,L2 Understand,,26979,,,,,,,,bloom_annotation_stats.json,deterministic type-to-label distribution
+Fig6,,type_derived_label,L3 Apply,,13880,,,,,,,,bloom_annotation_stats.json,deterministic type-to-label distribution
+Fig6,,type_derived_label,L4 Analyse,,47,,,,,,,,bloom_annotation_stats.json,deterministic type-to-label distribution
+Fig6,,type_derived_label,L5 Evaluate,,9667,,,,,,,,bloom_annotation_stats.json,deterministic type-to-label distribution
+Fig6,,type_derived_label,L6 Create,,9681,,,,,,,,bloom_annotation_stats.json,deterministic type-to-label distribution
+Fig8,,automatic_judge,A co-occurrence,75,,,,20,75,26.7,18.0,37.6,ablation_judged.jsonl,independent candidate sample
+Fig8,,automatic_judge,B heuristics,75,,,,28,75,37.3,27.3,48.7,ablation_judged.jsonl,independent candidate sample
+Fig8,,automatic_judge,C similarity rank,75,,,,20,75,26.7,18.0,37.6,ablation_judged.jsonl,independent candidate sample
+Fig8,,automatic_judge,D LLM-positive set,75,,,,54,75,72.0,61.0,80.9,ablation_judged.jsonl,independent candidate sample
+Fig9,,operational_output,A retained candidates,,2234,,,,,,,,swrl/output/rules_a_filtered_v2.jsonl,unvalidated derived candidates
+Fig9,,operational_output,B legacy combined candidates,,49099,,,,,,,,swrl/output/rules_b_all.jsonl,legacy candidates without per-rule provenance
+Fig9,,operational_output,C review flags,,341,,,,,,,,swrl/output/rules_c_results.jsonl,unadjudicated review flags
+Fig9,,operational_output,D general-user view,,4417,,,,,,,,swrl/output/rules_d_view_patient.jsonl,visible asserted triples
+Fig9,,operational_output,D professional view,,33805,,,,,,,,swrl/output/rules_d_view_clinician.jsonl,visible asserted triples
+Fig9,,operational_output,D researcher view,,33805,,,,,,,,swrl/output/rules_d_view_researcher.jsonl,visible asserted triples
+Fig11,a,CMFKG,General user,10,,81.5,14.5,,,,,,reported Table 12 summary,task-accuracy group mean and SD; participant rows unavailable
+Fig11,a,CMFKG-Single,General user,10,,64.2,14.5,,,,,,reported Table 12 summary,task-accuracy group mean and SD; participant rows unavailable
+Fig11,a,CMFKG,TCM professional,10,,86.4,9.8,,,,,,reported Table 12 summary,task-accuracy group mean and SD; participant rows unavailable
+Fig11,a,CMFKG-Single,TCM professional,10,,79.2,12.5,,,,,,reported Table 12 summary,task-accuracy group mean and SD; participant rows unavailable
+Fig11,a,CMFKG,Researcher,9,,91.4,5.8,,,,,,reported Table 12 summary,task-accuracy group mean and SD; participant rows unavailable
+Fig11,a,CMFKG-Single,Researcher,9,,86.0,7.2,,,,,,reported Table 12 summary,task-accuracy group mean and SD; participant rows unavailable
+Fig11,b,CMFKG,General user,10,,34.5,9.8,,,,,,reported Table 12 summary,weighted NASA-TLX group mean and SD; participant rows unavailable
+Fig11,b,CMFKG-Single,General user,10,,54.3,10.2,,,,,,reported Table 12 summary,weighted NASA-TLX group mean and SD; participant rows unavailable
+Fig11,b,CMFKG,TCM professional,10,,32.1,12.3,,,,,,reported Table 12 summary,weighted NASA-TLX group mean and SD; participant rows unavailable
+Fig11,b,CMFKG-Single,TCM professional,10,,42.4,11.8,,,,,,reported Table 12 summary,weighted NASA-TLX group mean and SD; participant rows unavailable
+Fig11,b,CMFKG,Researcher,9,,33.0,12.5,,,,,,reported Table 12 summary,weighted NASA-TLX group mean and SD; participant rows unavailable
+Fig11,b,CMFKG-Single,Researcher,9,,38.2,13.1,,,,,,reported Table 12 summary,weighted NASA-TLX group mean and SD; participant rows unavailable
+Table12,,CMFKG,Overall task accuracy,29,,86.4,10.7,,,,,,reported Table 12 summary,participant rows unavailable
+Table12,,CMFKG-Single,Overall task accuracy,29,,76.5,15.3,,,,,,reported Table 12 summary,participant rows unavailable
+Table12,,CMFKG,Overall weighted NASA-TLX,29,,33.2,11.4,,,,,,reported Table 12 summary,participant rows unavailable
+Table12,,CMFKG-Single,Overall weighted NASA-TLX,29,,44.8,12.6,,,,,,reported Table 12 summary,participant rows unavailable

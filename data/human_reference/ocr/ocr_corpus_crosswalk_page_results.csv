@@ -1,0 +1,52 @@
+﻿sample_id,source_key,page_number,reference_chars,raw_chars,cleaned_chars,raw_edit_distance,cleaned_edit_distance,raw_cer,cleaned_cer,delta_cleaned_minus_raw_cer,source_key_normalised,source_id,archived_source_file,extraction_included_bool,bibliographic_identity_status,crosswalk_matched,corpus_extraction_included
+OCR-0001,13 食宪鸿秘,136,204,210,204,30,4.0,0.1470588235294117,0.0196078431372549,-0.1274509803921568,13 食宪鸿秘,SF02,13 食宪鸿秘.txt,True,title-bearing filename; authority record not archived,True,True
+OCR-0003,8996f7340uae72fc4f9f641ea0edcd19,104,311,416,311,197,1.0,0.6334405144694534,0.0032154340836012,-0.6302250803858521,8996f7340uae72fc4f9f641ea0edcd19,SF05,8996f7340uae72fc4f9f641ea0edcd19.txt,True,unresolved filename,True,True
+OCR-0004,8e39fed12o25fb8578276afd09e356f0,293,96,104,96,21,0.0,0.21875,0.0,-0.21875,8e39fed12o25fb8578276afd09e356f0,SF06,8e39fed12o25fb8578276afd09e356f0.txt,True,unresolved filename,True,True
+OCR-0005,中国烹饪古籍丛书33种/02 易牙遗意,83,274,355,274,127,0.0,0.4635036496350365,0.0,-0.4635036496350365,中国烹饪古籍丛书33种/02 易牙遗意,SF08,中国烹饪古籍丛书33种/02 易牙遗意.txt,True,title-bearing filename; authority record not archived,True,True
+OCR-0006,中国烹饪古籍丛书33种/04 醒园录,33,238,294,238,88,0.0,0.3697478991596639,0.0,-0.3697478991596639,中国烹饪古籍丛书33种/04 醒园录,SF10,中国烹饪古籍丛书33种/04 醒园录.txt,True,title-bearing filename; authority record not archived,True,True
+OCR-0007,中国烹饪古籍丛书33种/05 随园食单,8,349,338,349,62,0.0,0.1776504297994269,0.0,-0.1776504297994269,中国烹饪古籍丛书33种/05 随园食单,SF11,中国烹饪古籍丛书33种/05 随园食单.txt,True,title-bearing filename; authority record not archived,True,True
+OCR-0008,中国烹饪古籍丛书33种/06 素食说略,3,140,143,140,18,2.0,0.1285714285714285,0.0142857142857142,-0.1142857142857142,中国烹饪古籍丛书33种/06 素食说略,SF12,中国烹饪古籍丛书33种/06 素食说略.txt,True,title-bearing filename; authority record not archived,True,True
+OCR-0009,中国烹饪古籍丛书33种/07 吕氏春秋本味篇,75,488,490,0,40,,0.081967213114754,,,中国烹饪古籍丛书33种/07 吕氏春秋本味篇,SF13,中国烹饪古籍丛书33种/07 吕氏春秋本味篇.txt,True,title-bearing filename; authority record not archived,True,True
+OCR-0010,中国烹饪古籍丛书33种/08 养小录,92,294,307,294,50,0.0,0.1700680272108843,0.0,-0.1700680272108843,中国烹饪古籍丛书33种/08 养小录,SF14,中国烹饪古籍丛书33种/08 养小录.txt,True,title-bearing filename; authority record not archived,True,True
+OCR-0011,中国烹饪古籍丛书33种/09 千金食治  食疗方,121,539,545,539,64,11.0,0.1187384044526901,0.0204081632653061,-0.098330241187384,中国烹饪古籍丛书33种/09 千金食治  食疗方,SF15,中国烹饪古籍丛书33种/09 千金食治  食疗方.txt,True,title-bearing filename; authority record not archived,True,True
+OCR-0012,中国烹饪古籍丛书33种/10 清异录（饮食部分）,9,448,448,0,28,,0.0625,,,中国烹饪古籍丛书33种/10 清异录（饮食部分）,SF16,中国烹饪古籍丛书33种/10 清异录（饮食部分）.txt,True,title-bearing filename; authority record not archived,True,True
+OCR-0013,中国烹饪古籍丛书33种/12 齐民要术（饮食部分）,222,539,539,0,33,,0.0612244897959183,,,中国烹饪古籍丛书33种/12 齐民要术（饮食部分）,SF18,中国烹饪古籍丛书33种/12 齐民要术（饮食部分）.txt,True,title-bearing filename; authority record not archived,True,True
+OCR-0014,中国烹饪古籍丛书33种/13 食宪鸿秘,172,208,208,0,6,,0.0288461538461538,,,中国烹饪古籍丛书33种/13 食宪鸿秘,SF19,中国烹饪古籍丛书33种/13 食宪鸿秘.txt,True,title-bearing filename; authority record not archived,True,True
+OCR-0015,中国烹饪古籍丛书33种/14 随息居饮食谱,87,429,429,0,34,,0.0792540792540792,,,中国烹饪古籍丛书33种/14 随息居饮食谱,SF20,中国烹饪古籍丛书33种/14 随息居饮食谱.txt,True,title-bearing filename; authority record not archived,True,True
+OCR-0016,中国烹饪古籍丛书33种/15 饮馔服食笺,81,150,150,0,10,,0.0666666666666666,,,中国烹饪古籍丛书33种/15 饮馔服食笺,SF21,中国烹饪古籍丛书33种/15 饮馔服食笺.txt,True,title-bearing filename; authority record not archived,True,True
+OCR-0017,中国烹饪古籍丛书33种/16 饮食须知,73,496,496,0,21,,0.0423387096774193,,,中国烹饪古籍丛书33种/16 饮食须知,SF22,中国烹饪古籍丛书33种/16 饮食须知.txt,True,title-bearing filename; authority record not archived,True,True
+OCR-0018,中国烹饪古籍丛书33种/17 能改斋漫录（饮食部分）,28,599,599,0,47,,0.0784641068447412,,,中国烹饪古籍丛书33种/17 能改斋漫录（饮食部分）,SF23,中国烹饪古籍丛书33种/17 能改斋漫录（饮食部分）.txt,True,title-bearing filename; authority record not archived,True,True
+OCR-0019,中国烹饪古籍丛书33种/18 先秦烹饪史料选注,102,447,447,0,26,,0.058165548098434,,,中国烹饪古籍丛书33种/18 先秦烹饪史料选注,SF24,中国烹饪古籍丛书33种/18 先秦烹饪史料选注.txt,True,title-bearing filename; authority record not archived,True,True
+OCR-0020,中国烹饪古籍丛书33种/19 吴氏中馈录  本心斋疏食谱  （外四种）,22,264,264,0,6,,0.0227272727272727,,,中国烹饪古籍丛书33种/19 吴氏中馈录  本心斋疏食谱  （外四种）,SF25,中国烹饪古籍丛书33种/19 吴氏中馈录  本心斋疏食谱  （外四种）.txt,True,title-bearing filename; authority record not archived,True,True
+OCR-0021,中国烹饪古籍丛书33种/20 居家必用事类全集（饮食类）,96,386,386,0,18,,0.0466321243523316,,,中国烹饪古籍丛书33种/20 居家必用事类全集（饮食类）,SF26,中国烹饪古籍丛书33种/20 居家必用事类全集（饮食类）.txt,True,title-bearing filename; authority record not archived,True,True
+OCR-0022,中国烹饪古籍丛书33种/22 菽园杂记（饮食部分）、升庵外集（饮食部分） 、 饮食绅言（饮食部分）,44,410,410,0,34,,0.0829268292682926,,,中国烹饪古籍丛书33种/22 菽园杂记（饮食部分）、升庵外集（饮食部分） 、 饮食绅言（饮食部分）,SF28,中国烹饪古籍丛书33种/22 菽园杂记（饮食部分）、升庵外集（饮食部分） 、 饮食绅言（饮食部分）.txt,True,title-bearing filename; authority record not archived,True,True
+OCR-0023,中国烹饪古籍丛书33种/23 粥谱（二种）,85,118,118,0,3,,0.0254237288135593,,,中国烹饪古籍丛书33种/23 粥谱（二种）,SF29,中国烹饪古籍丛书33种/23 粥谱（二种）.txt,True,title-bearing filename; authority record not archived,True,True
+OCR-0024,中国烹饪古籍丛书33种/25 调鼎集,154,198,198,0,20,,0.101010101010101,,,中国烹饪古籍丛书33种/25 调鼎集,SF30,中国烹饪古籍丛书33种/25 调鼎集.txt,True,title-bearing filename; authority record not archived,True,True
+OCR-0025,中国烹饪古籍丛书33种/25 调鼎集,605,145,145,0,22,,0.1517241379310344,,,中国烹饪古籍丛书33种/25 调鼎集,SF30,中国烹饪古籍丛书33种/25 调鼎集.txt,True,title-bearing filename; authority record not archived,True,True
+OCR-0026,中国烹饪古籍丛书33种/26 筵款丰馐依祥调鼎新录,55,429,429,0,24,,0.0559440559440559,,,中国烹饪古籍丛书33种/26 筵款丰馐依祥调鼎新录,SF31,中国烹饪古籍丛书33种/26 筵款丰馐依祥调鼎新录.txt,True,title-bearing filename; authority record not archived,True,True
+OCR-0027,中国烹饪古籍丛书33种/27 饮膳正要,142,261,261,0,11,,0.0421455938697318,,,中国烹饪古籍丛书33种/27 饮膳正要,SF32,中国烹饪古籍丛书33种/27 饮膳正要.txt,True,title-bearing filename; authority record not archived,True,True
+OCR-0028,中国烹饪古籍丛书33种/28 浪迹丛谈四种（饮食部分）,67,531,531,0,17,,0.032015065913371,,,中国烹饪古籍丛书33种/28 浪迹丛谈四种（饮食部分）,SF33,中国烹饪古籍丛书33种/28 浪迹丛谈四种（饮食部分）.txt,True,title-bearing filename; authority record not archived,True,True
+OCR-0029,中国烹饪古籍丛书33种/29 陆游饮食诗选注,77,358,358,0,28,,0.0782122905027933,,,中国烹饪古籍丛书33种/29 陆游饮食诗选注,SF34,中国烹饪古籍丛书33种/29 陆游饮食诗选注.txt,True,title-bearing filename; authority record not archived,True,True
+OCR-0030,中国烹饪古籍丛书33种/30 随园食单补证,168,595,595,0,38,,0.0638655462184873,,,中国烹饪古籍丛书33种/30 随园食单补证,SF35,中国烹饪古籍丛书33种/30 随园食单补证.txt,True,title-bearing filename; authority record not archived,True,True
+OCR-0031,中国烹饪古籍丛书33种/31 清嘉录,52,539,539,0,43,,0.0797773654916512,,,中国烹饪古籍丛书33种/31 清嘉录,SF36,中国烹饪古籍丛书33种/31 清嘉录.txt,True,title-bearing filename; authority record not archived,True,True
+OCR-0032,中国烹饪古籍丛书33种/32 食疗本草,496,72,72,0,7,,0.0972222222222222,,,中国烹饪古籍丛书33种/32 食疗本草,SF37,中国烹饪古籍丛书33种/32 食疗本草.txt,True,title-bearing filename; authority record not archived,True,True
+OCR-0033,中国烹饪古籍丛书33种/33 东京梦华录  都城纪胜  西湖老人繁胜录  梦粱录  武林旧事,482,523,523,0,11,,0.0210325047801147,,,中国烹饪古籍丛书33种/33 东京梦华录  都城纪胜  西湖老人繁胜录  梦粱录  武林旧事,SF38,中国烹饪古籍丛书33种/33 东京梦华录  都城纪胜  西湖老人繁胜录  梦粱录  武林旧事.txt,True,title-bearing filename; authority record not archived,True,True
+OCR-0034,养老奉亲书_13767473,104,777,777,0,53,,0.0682110682110682,,,养老奉亲书_13767473,SF40,养老奉亲书_13767473.txt,True,title-bearing filename; authority record not archived,True,True
+OCR-0036,刘民叔汤液/NDL2576103_湯液本草3卷.(3),50,68,75,0,7,,0.1029411764705882,,,刘民叔汤液/NDL2576103_湯液本草3卷.(3),,,,,False,False
+OCR-0037,千金翼方.三十卷.唐.孙思邈撰.清光绪四年景元大德梅溪书院本,217,73,113,73,40,0.0,0.547945205479452,0.0,-0.547945205479452,千金翼方.三十卷.唐.孙思邈撰.清光绪四年景元大德梅溪书院本,SF42,千金翼方.三十卷.唐.孙思邈撰.清光绪四年景元大德梅溪书院本.txt,True,title-bearing filename; authority record not archived,True,True
+OCR-0038,"古刻新韵 野菜博录 (（明）鲍山编, 鮑山 etc.) (z-library.sk, 1lib.sk, z-lib.sk)",325,80,85,80,5,0.0,0.0625,0.0,-0.0625,"古刻新韵 野菜博录 (（明）鲍山编, 鮑山 etc.) (z-library.sk, 1lib.sk, z-lib.sk)",SF43,"古刻新韵 野菜博录 (（明）鲍山编, 鮑山 etc.) (z-library.sk, 1lib.sk, z-lib.sk).txt",True,title-bearing filename; authority record not archived,True,True
+OCR-0039,备急千金要方.三十卷.唐.孙思邈撰.清光绪四年长洲黄学熙刊江户医学据北宋本影刻本,572,76,113,76,38,0.0,0.5,0.0,-0.5,备急千金要方.三十卷.唐.孙思邈撰.清光绪四年长洲黄学熙刊江户医学据北宋本影刻本,SF44,备急千金要方.三十卷.唐.孙思邈撰.清光绪四年长洲黄学熙刊江户医学据北宋本影刻本.txt,True,title-bearing filename; authority record not archived,True,True
+OCR-0040,备急千金要方.三十卷.唐.孙思邈撰.清光绪四年长洲黄学熙刊江户医学据北宋本影刻本,853,44,57,45,13,1.0,0.2954545454545454,0.0227272727272727,-0.2727272727272727,备急千金要方.三十卷.唐.孙思邈撰.清光绪四年长洲黄学熙刊江户医学据北宋本影刻本,SF44,备急千金要方.三十卷.唐.孙思邈撰.清光绪四年长洲黄学熙刊江户医学据北宋本影刻本.txt,True,title-bearing filename; authority record not archived,True,True
+OCR-0044,太平圣惠方(1)/18太平圣惠方,78,52,64,0,12,,0.2307692307692307,,,太平圣惠方(1)/18太平圣惠方,,,,,False,False
+OCR-0045,太平圣惠方(1)/19太平圣惠方,35,72,87,0,15,,0.2083333333333333,,,太平圣惠方(1)/19太平圣惠方,,,,,False,False
+OCR-0049,太平圣惠方(1)/31太平圣惠方,16,70,85,0,15,,0.2142857142857142,,,太平圣惠方(1)/31太平圣惠方,,,,,False,False
+OCR-0050,太平圣惠方(1)/36太平圣惠方,42,130,141,0,13,,0.1,,,太平圣惠方(1)/36太平圣惠方,,,,,False,False
+OCR-0052,太平圣惠方(1)/43太平圣惠方,55,81,89,0,9,,0.1111111111111111,,,太平圣惠方(1)/43太平圣惠方,,,,,False,False
+OCR-0053,太平圣惠方(1)/46太平圣惠方,27,107,122,0,17,,0.1588785046728972,,,太平圣惠方(1)/46太平圣惠方,,,,,False,False
+OCR-0054,太平圣惠方(1)/4太平圣惠方,46,101,115,0,14,,0.1386138613861386,,,太平圣惠方(1)/4太平圣惠方,,,,,False,False
+OCR-0055,太平圣惠方(1)/8太平圣惠方,4,110,120,0,10,,0.0909090909090909,,,太平圣惠方(1)/8太平圣惠方,,,,,False,False
+OCR-0056,本草求真 清·黄宫绣 篡 席与民 朱肇和 点校 1987年_10461767,371,319,346,319,51,0.0,0.1598746081504702,0.0,-0.1598746081504702,本草求真 清·黄宫绣 篡 席与民 朱肇和 点校 1987年_10461767,SF47,本草求真 清·黄宫绣 篡 席与民 朱肇和 点校 1987年_10461767.txt,True,title-bearing filename; authority record not archived,True,True
+OCR-0057,随园食单（全本全注全译）中华书局2022,199,401,276,401,165,0.0,0.4114713216957606,0.0,-0.4114713216957606,随园食单（全本全注全译）中华书局2022,SF48,随园食单（全本全注全译）中华书局2022.txt,True,title-bearing filename; authority record not archived,True,True
+OCR-0058,随息居/中医古籍整理丛书--110随息居饮食谱-[清]王士雄,66,720,720,0,30,,0.0416666666666666,,,随息居/中医古籍整理丛书--110随息居饮食谱-[清]王士雄,SF49,随息居/中医古籍整理丛书--110随息居饮食谱-[清]王士雄.txt,True,title-bearing filename; authority record not archived,True,True
+OCR-0059,食物本草_14051796,29,528,527,528,67,0.0,0.1268939393939394,0.0,-0.1268939393939394,食物本草_14051796,SF52,食物本草_14051796.txt,True,title-bearing filename; authority record not archived,True,True
+OCR-0060,食鉴本草_14274304,8,229,236,229,34,26.0,0.148471615720524,0.1135371179039301,-0.0349344978165939,食鉴本草_14274304,SF53,食鉴本草_14274304.txt,True,title-bearing filename; authority record not archived,True,True

@@ -1,0 +1,3 @@
+﻿task_set,n_tasks,pilot_n_per_task_min,pilot_n_per_task_max,mean_task_accuracy,mean_task_time_seconds,observation_level,participant_level_raw_pilot_available
+A,12,12,12,0.7763333333333334,148.16666666666666,archived task-level aggregate,N
+B,12,12,12,0.7963333333333334,155.16666666666666,archived task-level aggregate,N

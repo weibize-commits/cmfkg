@@ -1,0 +1,3 @@
+﻿method,base_model,test_passages,max_length,tp,fp,fn,precision,recall,f1,checkpoint_best_epoch,checkpoint_best_val_f1
+SikuRoBERTa-CRF_archived,SIKU-BERT/sikuroberta,152,256,615,1851,1805,0.24939172749391728,0.25413223140495866,0.2517396643471142,10,0.550561797752809
+Chinese-RoBERTa-CRF_archived,hfl/chinese-roberta-wwm-ext,152,256,625,1832,1795,0.2543752543752544,0.25826446280991733,0.2563051055977034,7,0.5549516908212561

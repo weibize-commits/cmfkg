@@ -1,0 +1,41 @@
+{
+  "status": "complete_paired_propagation_sensitivity",
+  "scope": "17 pages with raw OCR, cleaned OCR, and adjudicated manual transcription",
+  "models": {
+    "SikuRoBERTa-CRF_archived": {
+      "base_model": "SIKU-BERT/sikuroberta",
+      "checkpoint": "sikuroberta_crf/best_model.pt (not redistributed)",
+      "checkpoint_sha256": "53E7E7E948DD86B1079E2F87A82766BA498C6FF88DB38D361589542BEB7AF7C7"
+    },
+    "Chinese-RoBERTa-CRF_archived": {
+      "base_model": "hfl/chinese-roberta-wwm-ext",
+      "checkpoint": "chinese_roberta_crf/best_model.pt (not redistributed)",
+      "checkpoint_sha256": "02D849D0692E729CC75D136DFFB2283ECA4F8CDB35A1614A51235CD81000A69E"
+    }
+  },
+  "windowing": {
+    "maximum_model_length": 256,
+    "window_characters": 254,
+    "overlap_characters": 48,
+    "overlap_resolution": "retain an entity when its midpoint lies in the window's non-overlap ownership region"
+  },
+  "relation_model": {
+    "path": "fixed_charngram_comparator.pkl (not redistributed)",
+    "sha256": "A3BC641F78B9E2578CAF9B8EB3340FEF9E10B56C764AAFA34C109A64C48E71FB",
+    "threshold": 0.475
+  },
+  "rule_scope": "audited A1-A3 and B1-B3 Horn-style candidates applied to frozen relation predictions",
+  "important_limitations": [
+    "The adjudicated transcription has no independent entity or relation annotations for these pages.",
+    "Stability against the same model on adjudicated text is not NER, relation, or rule accuracy.",
+    "The 17-page paired subset does not represent all 51 adjudicated pages or the full corpus.",
+    "C-class OCR-cause precision is not estimated because the 341 archived flags have no item-level causal labels.",
+    "Researcher-view precision and recall are not estimated because that view is an interface policy, not an implemented OCR detector."
+  ],
+  "input_sha256": "0D26314A292789DE168F19FBFD6851CC2AED80266D840307F9B84AD2E1664AC5",
+  "outputs": {
+    "paired_propagation_page_results.csv": "66F5A9C1B67F01600D1DE2B2DCE6B59035E64D25562BAE6D416066B8430B6198",
+    "paired_propagation_summary.csv": "D361A2E8FBA98534F9F557D502FC755848AC3B5F601C8BA2E336D266D270DF1A",
+    "paired_propagation_predictions.jsonl": "6F9C5F8DFA55059B8CA8281DFD3A371A40E6C3D14C99357027FBA8FBBA483B43"
+  }
+}

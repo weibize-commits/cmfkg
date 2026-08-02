@@ -1,0 +1,21 @@
+{
+  "status": "llm_policy_frozen_before_confirmatory_test_evaluation",
+  "independent_unit": "passage",
+  "development_passages": 50,
+  "development_candidates": 849,
+  "development_gold_relations": 321,
+  "selected_family": "local_relation_thresholds",
+  "selected_parameters": {
+    "threshold_source": "local_model_freeze.json"
+  },
+  "development_precision": 0.537864077669903,
+  "development_recall": 0.8629283489096573,
+  "development_f1": 0.6626794258373205,
+  "llm_prompt_version": "cmfkg_relation_triage_v2_20260731",
+  "llm_prompt_sha256": "2A9E76A8D52952A8727398B20E02D1867340DF0ECFA3BD7CAEAE54C8F8380A6D",
+  "llm_dev_decisions_sha256": "E188D4A6560570A4F2E9C0B9F3B847F55099534684045BBEDDF9A4D714D29820",
+  "local_model_sha256": "FD30C1ECC90BFBEA6876A1342EB12E642CA8F8F490AAC3395091029D8AD91FAE",
+  "policy_search_sha256": "4BB6416D779AC2832C31525E162B581192655E5AD7F0BD848D6D40E65F00648F",
+  "confirmatory_test_evaluated": false,
+  "next_step": "Run the already frozen prompt on the 65-passage confirmatory split, apply this policy without modification, and evaluate once."
+}

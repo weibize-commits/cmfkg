@@ -1,0 +1,12 @@
+*.csv text eol=lf
+*.json text eol=lf
+*.jsonl text eol=lf
+*.md text eol=lf
+*.py text eol=lf
+*.ttl text eol=lf
+*.txt text eol=lf
+*.cff text eol=lf
+*.xlsx binary
+*.zip binary
+*.pdf binary
+*.gz binary

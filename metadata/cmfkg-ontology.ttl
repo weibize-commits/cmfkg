@@ -1,0 +1,229 @@
+@prefix cmf: <https://w3id.org/cmfkg/ontology/> .
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+cmf: a owl:Ontology ;
+    dcterms:title "CMFKG ontology extension"@en ;
+    dcterms:description "Normative schema for the 13 CMFKG entity classes, 14 extracted relation types, and assertion-level provenance fields."@en ;
+    dcterms:conformsTo <https://cidoc-crm.org/Version/version-7.1.3> ;
+    owl:versionInfo "0.3.1-revision12" ;
+    rdfs:comment "This file formalises the JSON property-graph schema used by CMFKG. It does not claim that the computational graph was stored natively as CIDOC CRM RDF."@en .
+
+#################################################################
+# Common classes
+#################################################################
+
+cmf:TCFTEntity a owl:Class ;
+    rdfs:label "TCFT entity"@en ;
+    rdfs:subClassOf crm:E1_CRM_Entity ;
+    rdfs:comment "Local root class for the thirteen mutually controlled CMFKG annotation types; it adds TCFT-specific scope without redefining E1 CRM Entity."@en .
+
+cmf:FoodIngredient a owl:Class ;
+    rdfs:label "food ingredient concept"@en ;
+    rdfs:subClassOf cmf:TCFTEntity, crm:E55_Type ;
+    rdfs:comment "A canonical ingredient kind or ingredient term, rather than an individual physical specimen."@en .
+
+cmf:DietaryNature a owl:Class ;
+    rdfs:label "dietary nature"@en ;
+    rdfs:subClassOf cmf:TCFTEntity, crm:E55_Type ;
+    rdfs:comment "A traditional nature category such as cold, cool, neutral, warm, or hot."@en .
+
+cmf:DietaryFlavor a owl:Class ;
+    rdfs:label "dietary flavour"@en ;
+    rdfs:subClassOf cmf:TCFTEntity, crm:E55_Type ;
+    rdfs:comment "A traditional flavour category such as sweet, sour, acrid, bitter, or salty."@en .
+
+cmf:MeridianChannel a owl:Class ;
+    rdfs:label "meridian channel"@en ;
+    rdfs:subClassOf cmf:TCFTEntity, crm:E55_Type ;
+    rdfs:comment "A meridian concept used in the historical source terminology."@en .
+
+cmf:TherapeuticEffect a owl:Class ;
+    rdfs:label "therapeutic effect concept"@en ;
+    rdfs:subClassOf cmf:TCFTEntity, crm:E55_Type ;
+    rdfs:comment "An effect phrase asserted in a historical source, not a modern clinical-efficacy finding."@en .
+
+cmf:DiseaseSymptom a owl:Class ;
+    rdfs:label "disease symptom or pattern concept"@en ;
+    rdfs:subClassOf cmf:TCFTEntity, crm:E55_Type ;
+    rdfs:comment "A historical disease, symptom, or pattern-differentiation term extracted from the corpus; it is not a modern clinical diagnosis assertion."@en .
+
+cmf:InternalOrgan a owl:Class ;
+    rdfs:label "internal organ concept"@en ;
+    rdfs:subClassOf cmf:TCFTEntity, crm:E55_Type ;
+    rdfs:comment "A traditional organ-system concept rather than an anatomical observation of an individual."@en .
+
+cmf:FoodTherapyRecipe a owl:Class ;
+    rdfs:label "food therapy recipe"@en ;
+    rdfs:subClassOf cmf:TCFTEntity, crm:E29_Design_or_Procedure ;
+    rdfs:comment "A documented prescription or preparation plan, not an execution event."@en .
+
+cmf:CookingMethod a owl:Class ;
+    rdfs:label "cooking method"@en ;
+    rdfs:subClassOf cmf:TCFTEntity, crm:E29_Design_or_Procedure ;
+    rdfs:comment "A documented preparation or cooking procedure."@en .
+
+cmf:DietaryTaboo a owl:Class ;
+    rdfs:label "dietary taboo statement"@en ;
+    rdfs:subClassOf cmf:TCFTEntity, crm:E89_Propositional_Object ;
+    rdfs:comment "A taboo or avoidance statement recorded in a historical source, not a clinically validated contraindication."@en .
+
+cmf:HealthCultivationPrinciple a owl:Class ;
+    rdfs:label "health cultivation principle"@en ;
+    rdfs:subClassOf cmf:TCFTEntity, crm:E89_Propositional_Object ;
+    rdfs:comment "A propositional statement of traditional dietary or health-cultivation guidance."@en .
+
+cmf:TCMPhysician a owl:Class ;
+    rdfs:label "TCM physician or historical author"@en ;
+    rdfs:subClassOf cmf:TCFTEntity, crm:E21_Person ;
+    rdfs:comment "A person named as a physician, author, or attributed historical authority in the corpus."@en .
+
+cmf:AncientText a owl:Class ;
+    rdfs:label "ancient text"@en ;
+    rdfs:subClassOf cmf:TCFTEntity, crm:E33_Linguistic_Object ;
+    rdfs:comment "A linguistic work used as a named provenance source in the corpus."@en .
+
+cmf:EvidenceBearingAssertion a owl:Class ;
+    rdfs:label "evidence-bearing relation assertion"@en ;
+    rdfs:subClassOf crm:E13_Attribute_Assignment ;
+    rdfs:comment "Optional reification profile for the confidence, source, support-count, and authority fields stored on CMFKG JSON edges."@en .
+
+#################################################################
+# Fourteen extracted object properties
+#################################################################
+
+cmf:hasNature a owl:ObjectProperty ;
+    rdfs:domain cmf:FoodIngredient ;
+    rdfs:range cmf:DietaryNature ;
+    rdfs:label "has dietary nature"@en .
+
+cmf:hasFlavor a owl:ObjectProperty ;
+    rdfs:domain cmf:FoodIngredient ;
+    rdfs:range cmf:DietaryFlavor ;
+    rdfs:label "has dietary flavour"@en .
+
+cmf:entersmeridian a owl:ObjectProperty ;
+    rdfs:domain cmf:FoodIngredient ;
+    rdfs:range cmf:MeridianChannel ;
+    rdfs:label "enters meridian"@en ;
+    rdfs:comment "The lowercase spelling is retained because it is the predicate used in the released JSON graph."@en .
+
+cmf:hasEffect a owl:ObjectProperty ;
+    rdfs:domain cmf:FoodIngredient ;
+    rdfs:range cmf:TherapeuticEffect ;
+    rdfs:label "has historically recorded effect"@en ;
+    rdfs:comment "Documents a claim in the historical corpus; it does not establish modern clinical efficacy."@en .
+
+cmf:treats a owl:ObjectProperty ;
+    rdfs:domain [ a owl:Class ; owl:unionOf (cmf:FoodIngredient cmf:FoodTherapyRecipe) ] ;
+    rdfs:range cmf:DiseaseSymptom ;
+    rdfs:label "is historically recorded as used for"@en ;
+    rdfs:comment "Legacy technical predicate retained for JSON compatibility. It represents a historical-source or pipeline-accepted association and must not be rendered as modern efficacy or personalised treatment advice."@en .
+
+cmf:treatedByRecipe a owl:ObjectProperty ;
+    rdfs:domain cmf:DiseaseSymptom ;
+    rdfs:range cmf:FoodTherapyRecipe ;
+    rdfs:label "is recorded as treated by recipe"@en .
+
+cmf:containsIngredient a owl:ObjectProperty ;
+    rdfs:domain cmf:FoodTherapyRecipe ;
+    rdfs:range cmf:FoodIngredient ;
+    rdfs:label "contains ingredient"@en .
+
+cmf:usesCookingMethod a owl:ObjectProperty ;
+    rdfs:domain cmf:FoodTherapyRecipe ;
+    rdfs:range cmf:CookingMethod ;
+    rdfs:label "uses cooking method"@en .
+
+cmf:contraindicates a owl:ObjectProperty ;
+    rdfs:domain cmf:FoodIngredient ;
+    rdfs:range cmf:DietaryTaboo ;
+    rdfs:label "has historically recorded taboo statement"@en ;
+    rdfs:comment "The object is a historical taboo statement, not necessarily a disease entity or a clinically validated contraindication. Equality-based comparison with treats requires an explicit target-normalisation step."@en .
+
+cmf:affectsOrgan a owl:ObjectProperty ;
+    rdfs:domain cmf:DiseaseSymptom ;
+    rdfs:range cmf:InternalOrgan ;
+    rdfs:label "affects organ"@en .
+
+cmf:correspondsToOrgan a owl:ObjectProperty ;
+    rdfs:domain cmf:MeridianChannel ;
+    rdfs:range cmf:InternalOrgan ;
+    rdfs:label "corresponds to organ"@en .
+
+cmf:recordedInText a owl:ObjectProperty ;
+    rdfs:domain [ a owl:Class ; owl:unionOf (cmf:FoodIngredient cmf:FoodTherapyRecipe cmf:TherapeuticEffect) ] ;
+    rdfs:range cmf:AncientText ;
+    rdfs:label "is recorded in text"@en ;
+    rdfs:comment "A direct shortcut for corpus provenance. A fuller CRM event pattern may represent the creation and documentary act separately."@en .
+
+cmf:authoredBy a owl:ObjectProperty ;
+    rdfs:domain cmf:AncientText ;
+    rdfs:range cmf:TCMPhysician ;
+    rdfs:label "is attributed to author"@en ;
+    rdfs:comment "A direct shortcut. In event-centred CRM form, authorship is represented through an E65 Creation linked to the actor by P14 carried out by."@en .
+
+cmf:recommendsIngredient a owl:ObjectProperty ;
+    rdfs:domain cmf:HealthCultivationPrinciple ;
+    rdfs:range cmf:FoodIngredient ;
+    rdfs:label "historically recommends ingredient"@en ;
+    rdfs:comment "Records a recommendation in a historical principle or source; it is not personalised medical advice."@en .
+
+#################################################################
+# Assertion and data properties
+#################################################################
+
+cmf:assertionSubject a owl:ObjectProperty ;
+    rdfs:domain cmf:EvidenceBearingAssertion ;
+    rdfs:range cmf:TCFTEntity .
+
+cmf:assertionObject a owl:ObjectProperty ;
+    rdfs:domain cmf:EvidenceBearingAssertion ;
+    rdfs:range cmf:TCFTEntity .
+
+cmf:assertsPredicate a owl:ObjectProperty ;
+    rdfs:domain cmf:EvidenceBearingAssertion ;
+    rdfs:range rdf:Property .
+
+cmf:bloomLevel a owl:DatatypeProperty ;
+    rdfs:domain cmf:TCFTEntity ;
+    rdfs:range xsd:integer ;
+    rdfs:comment "Type-derived default presentation label from 1 to 6. The name is retained for compatibility with the released JSON graph; it is not an intrinsic cognitive property of an entity and may be overridden by task context."@en .
+
+cmf:originalQuote a owl:DatatypeProperty ;
+    rdfs:domain cmf:EvidenceBearingAssertion ;
+    rdfs:range xsd:string .
+
+cmf:extractionConfidence a owl:DatatypeProperty ;
+    rdfs:domain cmf:EvidenceBearingAssertion ;
+    rdfs:range xsd:decimal .
+
+cmf:supportCount a owl:DatatypeProperty ;
+    rdfs:domain cmf:EvidenceBearingAssertion ;
+    rdfs:range xsd:nonNegativeInteger .
+
+cmf:uniqueBookCount a owl:DatatypeProperty ;
+    rdfs:domain cmf:EvidenceBearingAssertion ;
+    rdfs:range xsd:nonNegativeInteger .
+
+cmf:authorityLevel a owl:DatatypeProperty ;
+    rdfs:domain cmf:EvidenceBearingAssertion ;
+    rdfs:range xsd:string ;
+    rdfs:comment "One of single, medium, high, or very_high in the released JSON graph."@en .
+
+cmf:epistemicStatus a owl:DatatypeProperty ;
+    rdfs:domain cmf:EvidenceBearingAssertion ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Recommended values are direct_historical_assertion, traditional_theory_candidate, and modern_clinical_evidence. The present graph does not provide a systematically reviewed modern clinical-evidence layer."@en .
+
+cmf:sourceFile a owl:DatatypeProperty ;
+    rdfs:domain cmf:EvidenceBearingAssertion ;
+    rdfs:range xsd:string .
+
+cmf:sourceChunk a owl:DatatypeProperty ;
+    rdfs:domain cmf:EvidenceBearingAssertion ;
+    rdfs:range xsd:nonNegativeInteger .
