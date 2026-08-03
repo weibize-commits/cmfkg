@@ -25,11 +25,16 @@ def read_jsonl(relative: str) -> list[dict]:
         return [json.loads(line) for line in handle if line.strip()]
 
 
+def canonical_bytes(path: Path) -> bytes:
+    data = path.read_bytes()
+    if path.suffix.lower() in {".xlsx", ".zip", ".pdf", ".gz"}:
+        return data
+    return data.replace(b"\r\n", b"\n")
+
+
 def sha256(path: Path) -> str:
     digest = hashlib.sha256()
-    with path.open("rb") as handle:
-        for chunk in iter(lambda: handle.read(1024 * 1024), b""):
-            digest.update(chunk)
+    digest.update(canonical_bytes(path))
     return digest.hexdigest()
 
 
