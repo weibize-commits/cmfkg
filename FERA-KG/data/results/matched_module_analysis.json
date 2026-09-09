@@ -1,0 +1,176 @@
+{
+  "contrasts_against_ecrp_correct": {
+    "counterfactual_off": {
+      "paired_seed_differences": {
+        "20260921": -0.02384789379098784,
+        "20260922": 0.0018313913361213408,
+        "20260923": -0.01340243748887815,
+        "20260924": 0.007314602257016745,
+        "20260925": -0.07674455505575545
+      },
+      "paired_seed_mean_difference": -0.02096977854849667,
+      "paired_seed_sample_standard_deviation": 0.033527128710026825,
+      "reference_minus_variant_ensemble_macro_f1": 0.0017735668113894876,
+      "source_work_bootstrap_95_ci": [
+        -0.03410212635189902,
+        0.038513685882823924
+      ]
+    },
+    "empty_passage": {
+      "paired_seed_differences": {
+        "20260921": -0.035576004183785565,
+        "20260922": -0.04915943592871372,
+        "20260923": -0.050146194372754055,
+        "20260924": -0.03157662490880159,
+        "20260925": -0.11746373681984068
+      },
+      "paired_seed_mean_difference": -0.056784399242779116,
+      "paired_seed_sample_standard_deviation": 0.03489059954371428,
+      "reference_minus_variant_ensemble_macro_f1": -0.019563743900825464,
+      "source_work_bootstrap_95_ci": [
+        -0.07871397983057488,
+        0.03945038608386262
+      ]
+    },
+    "no_paths": {
+      "paired_seed_differences": {
+        "20260921": -0.03384779303782104,
+        "20260922": 0.00668105746157488,
+        "20260923": 0.05132949935703504,
+        "20260924": 0.07681018758948557,
+        "20260925": -0.06399761020988923
+      },
+      "paired_seed_mean_difference": 0.007395068232077045,
+      "paired_seed_sample_standard_deviation": 0.05819598565602141,
+      "reference_minus_variant_ensemble_macro_f1": 0.031715950863713066,
+      "source_work_bootstrap_95_ci": [
+        -0.0057751031359225685,
+        0.07058290432659864
+      ]
+    },
+    "shuffled_passage": {
+      "paired_seed_differences": {
+        "20260921": -0.006840883921237467,
+        "20260922": -0.00309181296199304,
+        "20260923": -0.029078710418279113,
+        "20260924": -0.04196974111635188,
+        "20260925": -0.07937832087195282
+      },
+      "paired_seed_mean_difference": -0.032071893857962865,
+      "paired_seed_sample_standard_deviation": 0.030908225100481124,
+      "reference_minus_variant_ensemble_macro_f1": 0.0016874065729559906,
+      "source_work_bootstrap_95_ci": [
+        -0.05185190918418707,
+        0.05677090947280219
+      ]
+    },
+    "unconditioned_path": {
+      "paired_seed_differences": {
+        "20260921": -0.0001604627063300501,
+        "20260922": 0.06746305691749829,
+        "20260923": 0.009688751354434894,
+        "20260924": -0.027589436558968228,
+        "20260925": 0.0037579277922330095
+      },
+      "paired_seed_mean_difference": 0.010631967359773583,
+      "paired_seed_sample_standard_deviation": 0.03483987328112115,
+      "reference_minus_variant_ensemble_macro_f1": -0.01480955291080438,
+      "source_work_bootstrap_95_ci": [
+        -0.053511828953258234,
+        0.022689941698273947
+      ]
+    }
+  },
+  "interpretation_rule": "A module-level claim requires the matched-seed direction to be stable and the source-work bootstrap interval for the ensemble difference to exclude zero.",
+  "items": 450,
+  "labels_fixed_for_scoring": [
+    "SUPPORTED",
+    "NOT_SUPPORTED",
+    "INSUFFICIENT_CONTEXT",
+    "ENTITY_OR_TYPE_ERROR"
+  ],
+  "matched_prediction_sha256": {
+    "counterfactual_off": "96b38b9239ef3d4a10cf39cd466bd7cc6bc39609e53179b1c2aefc5d1a39194f",
+    "ecrp_correct": "848a6bd51e3528020cb4a94dc728a90dc49b45289c5d13633c1d922868e5a5ab",
+    "empty_passage": "f568e19cebeb7943eba8cbd9cc864294314508433826fd6a227f59bce7748094",
+    "no_paths": "872d729630271d634db4965e45cad6bf69a26190d1805f31e865bd5fc23a2165",
+    "shuffled_passage": "292880481f7c24d3b87edc7075dab4352bce6536879ed71301aa271a4af5a89e",
+    "unconditioned_path": "a9eaac6314fff4fa82adbe11e7e37989707e280f7095a750b0f80bc2a7865474"
+  },
+  "status": "COMPLETE_MATCHED_RETRAINING_ANALYSIS",
+  "tasks": {
+    "counterfactual_off": {
+      "ensemble_macro_f1": 0.2328812364272217,
+      "per_seed_macro_f1": {
+        "20260921": 0.2171069009696415,
+        "20260922": 0.22947962309511805,
+        "20260923": 0.23838397405253278,
+        "20260924": 0.23765793795477536,
+        "20260925": 0.20548971548565206
+      },
+      "seed_mean": 0.22562363031154392,
+      "seed_sample_standard_deviation": 0.01414592536816342
+    },
+    "ecrp_correct": {
+      "ensemble_macro_f1": 0.23465480323861118,
+      "per_seed_macro_f1": {
+        "20260921": 0.19325900717865366,
+        "20260922": 0.2313110144312394,
+        "20260923": 0.22498153656365463,
+        "20260924": 0.2449725402117921,
+        "20260925": 0.12874516042989662
+      },
+      "seed_mean": 0.20465385176304726,
+      "seed_sample_standard_deviation": 0.04647953214080439
+    },
+    "empty_passage": {
+      "ensemble_macro_f1": 0.25421854713943665,
+      "per_seed_macro_f1": {
+        "20260921": 0.22883501136243922,
+        "20260922": 0.2804704503599531,
+        "20260923": 0.2751277309364087,
+        "20260924": 0.2765491651205937,
+        "20260925": 0.2462088972497373
+      },
+      "seed_mean": 0.2614382510058264,
+      "seed_sample_standard_deviation": 0.02276439461901605
+    },
+    "no_paths": {
+      "ensemble_macro_f1": 0.20293885237489812,
+      "per_seed_macro_f1": {
+        "20260921": 0.2271068002164747,
+        "20260922": 0.2246299569696645,
+        "20260923": 0.1736520372066196,
+        "20260924": 0.16816235262230653,
+        "20260925": 0.19274277063978584
+      },
+      "seed_mean": 0.1972587835309702,
+      "seed_sample_standard_deviation": 0.027678332552501524
+    },
+    "shuffled_passage": {
+      "ensemble_macro_f1": 0.2329673966656552,
+      "per_seed_macro_f1": {
+        "20260921": 0.20009989109989113,
+        "20260922": 0.23440282739323243,
+        "20260923": 0.25406024698193375,
+        "20260924": 0.286942281328144,
+        "20260925": 0.20812348130184943
+      },
+      "seed_mean": 0.23672574562101012,
+      "seed_sample_standard_deviation": 0.035309786492330845
+    },
+    "unconditioned_path": {
+      "ensemble_macro_f1": 0.24946435614941556,
+      "per_seed_macro_f1": {
+        "20260921": 0.1934194698849837,
+        "20260922": 0.1638479575137411,
+        "20260923": 0.21529278520921974,
+        "20260924": 0.27256197677076033,
+        "20260925": 0.1249872326376636
+      },
+      "seed_mean": 0.1940218844032737,
+      "seed_sample_standard_deviation": 0.05544729308490967
+    }
+  },
+  "zero_division": 0
+}

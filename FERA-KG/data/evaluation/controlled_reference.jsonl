@@ -1,0 +1,450 @@
+{"item_id": "TCFT-EVR-0001", "passage_id": "TCFT-PASSAGE-D59C68C6CC1457A2", "source_work": "14 随息居饮食谱.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0002", "passage_id": "TCFT-PASSAGE-5D5C5EED901B138F", "source_work": "食鉴本草_14274304.txt", "final_label": "NOT_SUPPORTED", "reference_status": "third_annotator_adjudication"}
+{"item_id": "TCFT-EVR-0003", "passage_id": "TCFT-PASSAGE-F1AC13763C181C1E", "source_work": "随园食单（全本全注全译）中华书局2022.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0004", "passage_id": "TCFT-PASSAGE-2CBA2235925A2C41", "source_work": "养老奉亲书_13767473.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0005", "passage_id": "TCFT-PASSAGE-7419C520CA10D67C", "source_work": "本草求真 清·黄宫绣 篡 席与民 朱肇和 点校 1987年_10461767.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0006", "passage_id": "TCFT-PASSAGE-61B58A250FE247BE", "source_work": "中医古籍整理丛书--110随息居饮食谱-[清]王士雄.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0007", "passage_id": "TCFT-PASSAGE-8D1221E319F4B65D", "source_work": "养老奉亲书_13767473.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0008", "passage_id": "TCFT-PASSAGE-46B6971AC506AB68", "source_work": "32 食疗本草.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0009", "passage_id": "TCFT-PASSAGE-342DBC8C0153B1E0", "source_work": "12 齐民要术（饮食部分）.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0010", "passage_id": "TCFT-PASSAGE-63448BAAD84C996B", "source_work": "32 食疗本草.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0011", "passage_id": "TCFT-PASSAGE-F7211AB34486A7BC", "source_work": "27 饮膳正要.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0012", "passage_id": "TCFT-PASSAGE-6CFAE427B6AB7647", "source_work": "20 居家必用事类全集（饮食类）.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0013", "passage_id": "TCFT-PASSAGE-6CF5EEE531BD394E", "source_work": "8e39fed12o25fb8578276afd09e356f0.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0014", "passage_id": "TCFT-PASSAGE-E5161B602B604DE5", "source_work": "8e39fed12o25fb8578276afd09e356f0.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0015", "passage_id": "TCFT-PASSAGE-955681699D9ED11D", "source_work": "13 食宪鸿秘.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0016", "passage_id": "TCFT-PASSAGE-B60ADD7DBAE88A0A", "source_work": "23 粥谱（二种）.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0017", "passage_id": "TCFT-PASSAGE-0AD3124D0DED0FA9", "source_work": "随园食单（全本全注全译）中华书局2022.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0018", "passage_id": "TCFT-PASSAGE-75DBB0EA2B2A54CC", "source_work": "09 千金食治  食疗方.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0019", "passage_id": "TCFT-PASSAGE-32C6915D9B79B8A6", "source_work": "33 东京梦华录  都城纪胜  西湖老人繁胜录  梦粱录  武林旧事.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0020", "passage_id": "TCFT-PASSAGE-457B57818FB8C54A", "source_work": "27 饮膳正要.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0021", "passage_id": "TCFT-PASSAGE-21CC63949E6D2ACF", "source_work": "27 饮膳正要.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0022", "passage_id": "TCFT-PASSAGE-97C071BADC0A1047", "source_work": "30 随园食单补证.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0023", "passage_id": "TCFT-PASSAGE-3974AC48FB1FF9F4", "source_work": "32 食疗本草.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0024", "passage_id": "TCFT-PASSAGE-8AB9D6A464C57BA3", "source_work": "食物本草_14051796.txt", "final_label": "NOT_SUPPORTED", "reference_status": "third_annotator_adjudication"}
+{"item_id": "TCFT-EVR-0025", "passage_id": "TCFT-PASSAGE-501110DE4D94B3CB", "source_work": "中医古籍整理丛书--110随息居饮食谱-[清]王士雄.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0026", "passage_id": "TCFT-PASSAGE-7E4A6F7C231BD46B", "source_work": "中医古籍整理丛书--110随息居饮食谱-[清]王士雄.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0027", "passage_id": "TCFT-PASSAGE-42CDC48B7711C8C8", "source_work": "养老奉亲书_13767473.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0028", "passage_id": "TCFT-PASSAGE-36777C8592F7BB42", "source_work": "32 食疗本草.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0029", "passage_id": "TCFT-PASSAGE-40BDDCE5F6D8E436", "source_work": "14 随息居饮食谱.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0030", "passage_id": "TCFT-PASSAGE-C9C4C3951D8A8650", "source_work": "12 齐民要术（饮食部分）.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0031", "passage_id": "TCFT-PASSAGE-EC02033369A15F96", "source_work": "09 千金食治  食疗方.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0032", "passage_id": "TCFT-PASSAGE-E689E53D6741C077", "source_work": "25 调鼎集.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0033", "passage_id": "TCFT-PASSAGE-EAC8419BFB26A6D4", "source_work": "养老奉亲书_13767473.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0034", "passage_id": "TCFT-PASSAGE-A64B7AC3ADF97D13", "source_work": "30 随园食单补证.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0035", "passage_id": "TCFT-PASSAGE-B723842B319EFB0C", "source_work": "32 食疗本草.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0036", "passage_id": "TCFT-PASSAGE-BEF08520E49F01D8", "source_work": "05 随园食单.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0037", "passage_id": "TCFT-PASSAGE-FF19C05B033A3786", "source_work": "32 食疗本草.txt", "final_label": "NOT_SUPPORTED", "reference_status": "third_annotator_adjudication"}
+{"item_id": "TCFT-EVR-0038", "passage_id": "TCFT-PASSAGE-8F49739DA0A91E23", "source_work": "32 食疗本草.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0039", "passage_id": "TCFT-PASSAGE-E62561F928366293", "source_work": "25 调鼎集.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0040", "passage_id": "TCFT-PASSAGE-6677D3FE1301F38C", "source_work": "本草求真 清·黄宫绣 篡 席与民 朱肇和 点校 1987年_10461767.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0041", "passage_id": "TCFT-PASSAGE-7DE6855DA6307F10", "source_work": "30 随园食单补证.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0042", "passage_id": "TCFT-PASSAGE-98D628476F6378AA", "source_work": "27 饮膳正要.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0043", "passage_id": "TCFT-PASSAGE-13E582D93B41BA9D", "source_work": "20 居家必用事类全集（饮食类）.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0044", "passage_id": "TCFT-PASSAGE-CD79E61DA6FC1976", "source_work": "32 食疗本草.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0045", "passage_id": "TCFT-PASSAGE-6141A8DF53FE2C3D", "source_work": "20 居家必用事类全集（饮食类）.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0046", "passage_id": "TCFT-PASSAGE-47A70106CD8A136B", "source_work": "食鉴本草_14274304.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0047", "passage_id": "TCFT-PASSAGE-ACF28E234989DFAC", "source_work": "中医古籍整理丛书--110随息居饮食谱-[清]王士雄.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0048", "passage_id": "TCFT-PASSAGE-99980D49C1B28B40", "source_work": "32 食疗本草.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0049", "passage_id": "TCFT-PASSAGE-71189C98DFE1E58D", "source_work": "本草求真 清·黄宫绣 篡 席与民 朱肇和 点校 1987年_10461767.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0050", "passage_id": "TCFT-PASSAGE-D83DF5E705905957", "source_work": "32 食疗本草.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0051", "passage_id": "TCFT-PASSAGE-0F3A610C47C70A1E", "source_work": "19 吴氏中馈录  本心斋疏食谱  （外四种）.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0052", "passage_id": "TCFT-PASSAGE-B9B1C6866E022B7D", "source_work": "18 先秦烹饪史料选注.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0053", "passage_id": "TCFT-PASSAGE-11472F948A912A15", "source_work": "05 随园食单.txt", "final_label": "INSUFFICIENT_CONTEXT", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0054", "passage_id": "TCFT-PASSAGE-5744BA977EAA1FD1", "source_work": "14 随息居饮食谱.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0055", "passage_id": "TCFT-PASSAGE-5F2131BB11305BE2", "source_work": "本草求真 清·黄宫绣 篡 席与民 朱肇和 点校 1987年_10461767.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0056", "passage_id": "TCFT-PASSAGE-A61760ACB5B22207", "source_work": "随园食单（全本全注全译）中华书局2022.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0057", "passage_id": "TCFT-PASSAGE-ED219D921556F3BF", "source_work": "09 千金食治  食疗方.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0058", "passage_id": "TCFT-PASSAGE-5BF39CC2FC3C4DA0", "source_work": "养老奉亲书_13767473.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0059", "passage_id": "TCFT-PASSAGE-34D1A03EE411CB20", "source_work": "20 居家必用事类全集（饮食类）.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0060", "passage_id": "TCFT-PASSAGE-3710346DD570E51D", "source_work": "本草求真 清·黄宫绣 篡 席与民 朱肇和 点校 1987年_10461767.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0061", "passage_id": "TCFT-PASSAGE-622D3B21E43C78B6", "source_work": "32 食疗本草.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0062", "passage_id": "TCFT-PASSAGE-345989D8A003ADF0", "source_work": "27 饮膳正要.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0063", "passage_id": "TCFT-PASSAGE-96AE3E9D35CF66B7", "source_work": "养老奉亲书_13767473.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0064", "passage_id": "TCFT-PASSAGE-5BFC88117105590F", "source_work": "27 饮膳正要.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0065", "passage_id": "TCFT-PASSAGE-0FD8F68B2B5D5697", "source_work": "02 易牙遗意.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0066", "passage_id": "TCFT-PASSAGE-37499582613EE3DF", "source_work": "09 千金食治  食疗方.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0067", "passage_id": "TCFT-PASSAGE-3E57CE9E7941F293", "source_work": "10 清异录（饮食部分）.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0068", "passage_id": "TCFT-PASSAGE-314D44754A354839", "source_work": "14 随息居饮食谱.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0069", "passage_id": "TCFT-PASSAGE-6889A73DFB63A528", "source_work": "09 千金食治  食疗方.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0070", "passage_id": "TCFT-PASSAGE-642DAAC094BCE11C", "source_work": "27 饮膳正要.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0071", "passage_id": "TCFT-PASSAGE-6832A4153EE9B118", "source_work": "30 随园食单补证.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0072", "passage_id": "TCFT-PASSAGE-194A7501D4C654D5", "source_work": "27 饮膳正要.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0073", "passage_id": "TCFT-PASSAGE-0A4EA7B0C1C7E926", "source_work": "09 千金食治  食疗方.txt", "final_label": "NOT_SUPPORTED", "reference_status": "third_annotator_adjudication"}
+{"item_id": "TCFT-EVR-0074", "passage_id": "TCFT-PASSAGE-0EDE551949A6481B", "source_work": "养老奉亲书_13767473.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0075", "passage_id": "TCFT-PASSAGE-701A133FFFA6BB74", "source_work": "32 食疗本草.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0076", "passage_id": "TCFT-PASSAGE-04C907959E6CE1FE", "source_work": "随园食单（全本全注全译）中华书局2022.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0077", "passage_id": "TCFT-PASSAGE-9658CEBFF56A8DD9", "source_work": "本草求真 清·黄宫绣 篡 席与民 朱肇和 点校 1987年_10461767.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0078", "passage_id": "TCFT-PASSAGE-877E02AC3BDBEF47", "source_work": "27 饮膳正要.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0079", "passage_id": "TCFT-PASSAGE-8464766506064C53", "source_work": "09 千金食治  食疗方.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0080", "passage_id": "TCFT-PASSAGE-B2B60C59193F7CAD", "source_work": "32 食疗本草.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0081", "passage_id": "TCFT-PASSAGE-D71B1119CD03CCA6", "source_work": "27 饮膳正要.txt", "final_label": "INSUFFICIENT_CONTEXT", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0082", "passage_id": "TCFT-PASSAGE-A408AA30DB2B97EF", "source_work": "8e39fed12o25fb8578276afd09e356f0.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0083", "passage_id": "TCFT-PASSAGE-FF4C9224C11C7F1E", "source_work": "8e39fed12o25fb8578276afd09e356f0.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0084", "passage_id": "TCFT-PASSAGE-6121F56FD2C60648", "source_work": "05 随园食单.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0085", "passage_id": "TCFT-PASSAGE-61CE3901DE97AB1E", "source_work": "04 醒园录.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0086", "passage_id": "TCFT-PASSAGE-2DFAE010FDDE2A30", "source_work": "30 随园食单补证.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0087", "passage_id": "TCFT-PASSAGE-63CC0D05233C2BEC", "source_work": "14 随息居饮食谱.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0088", "passage_id": "TCFT-PASSAGE-1C56A7D1A84A8EEE", "source_work": "本草求真 清·黄宫绣 篡 席与民 朱肇和 点校 1987年_10461767.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0089", "passage_id": "TCFT-PASSAGE-69352593A8C22D37", "source_work": "养老奉亲书_13767473.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0090", "passage_id": "TCFT-PASSAGE-49EDAD0B672E14A3", "source_work": "养老奉亲书_13767473.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0091", "passage_id": "TCFT-PASSAGE-6A9A7D7D734D7460", "source_work": "09 千金食治  食疗方.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0092", "passage_id": "TCFT-PASSAGE-89DB92CABF51734A", "source_work": "养老奉亲书_13767473.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0093", "passage_id": "TCFT-PASSAGE-88F682A72B8498BE", "source_work": "本草求真 清·黄宫绣 篡 席与民 朱肇和 点校 1987年_10461767.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0094", "passage_id": "TCFT-PASSAGE-A253F109487C379D", "source_work": "09 千金食治  食疗方.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0095", "passage_id": "TCFT-PASSAGE-E9722270B934B690", "source_work": "本草求真 清·黄宫绣 篡 席与民 朱肇和 点校 1987年_10461767.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0096", "passage_id": "TCFT-PASSAGE-A8F8065115E584C5", "source_work": "30 随园食单补证.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0097", "passage_id": "TCFT-PASSAGE-7ADC778A35044BB0", "source_work": "本草求真 清·黄宫绣 篡 席与民 朱肇和 点校 1987年_10461767.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0098", "passage_id": "TCFT-PASSAGE-40C8D59C61035292", "source_work": "27 饮膳正要.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0099", "passage_id": "TCFT-PASSAGE-83AF9EA4785553BA", "source_work": "14 随息居饮食谱.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0100", "passage_id": "TCFT-PASSAGE-AA66A96F7A76AF5D", "source_work": "09 千金食治  食疗方.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0101", "passage_id": "TCFT-PASSAGE-AE474E64AA7C479E", "source_work": "26 筵款丰馐依祥调鼎新录.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0102", "passage_id": "TCFT-PASSAGE-95D585187D57BC36", "source_work": "32 食疗本草.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0103", "passage_id": "TCFT-PASSAGE-347D697698C1FE36", "source_work": "20 居家必用事类全集（饮食类）.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0104", "passage_id": "TCFT-PASSAGE-4937B81A380176A1", "source_work": "27 饮膳正要.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0105", "passage_id": "TCFT-PASSAGE-A597F2ED55ADE77B", "source_work": "27 饮膳正要.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0106", "passage_id": "TCFT-PASSAGE-95FD4135AC2090B8", "source_work": "养老奉亲书_13767473.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0107", "passage_id": "TCFT-PASSAGE-418445AA743E9C4C", "source_work": "27 饮膳正要.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0108", "passage_id": "TCFT-PASSAGE-A340BD6F7FBB5653", "source_work": "25 调鼎集.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0109", "passage_id": "TCFT-PASSAGE-FCD4ABBCDE57CD09", "source_work": "25 调鼎集.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0110", "passage_id": "TCFT-PASSAGE-600F1AD504A384BF", "source_work": "本草求真 清·黄宫绣 篡 席与民 朱肇和 点校 1987年_10461767.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0111", "passage_id": "TCFT-PASSAGE-6EAA6FD2E2F26CF0", "source_work": "09 千金食治  食疗方.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0112", "passage_id": "TCFT-PASSAGE-3978FEC81871D0AF", "source_work": "30 随园食单补证.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0113", "passage_id": "TCFT-PASSAGE-6D3E54E104D297A9", "source_work": "养老奉亲书_13767473.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0114", "passage_id": "TCFT-PASSAGE-F069F0067CAC70D5", "source_work": "15 饮馔服食笺.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0115", "passage_id": "TCFT-PASSAGE-878FAFA7C24A83ED", "source_work": "32 食疗本草.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0116", "passage_id": "TCFT-PASSAGE-9476293883282ADB", "source_work": "8e39fed12o25fb8578276afd09e356f0.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0117", "passage_id": "TCFT-PASSAGE-20AC484B3A01CD23", "source_work": "养老奉亲书_13767473.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0118", "passage_id": "TCFT-PASSAGE-B3265E31ECAEC0FE", "source_work": "20 居家必用事类全集（饮食类）.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0119", "passage_id": "TCFT-PASSAGE-DCEEA2535BC4EE36", "source_work": "12 齐民要术（饮食部分）.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0120", "passage_id": "TCFT-PASSAGE-20AE066D4D5D65DF", "source_work": "32 食疗本草.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0121", "passage_id": "TCFT-PASSAGE-615D4D60BEB8BD29", "source_work": "8e39fed12o25fb8578276afd09e356f0.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0122", "passage_id": "TCFT-PASSAGE-7300FB45E8886A05", "source_work": "09 千金食治  食疗方.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0123", "passage_id": "TCFT-PASSAGE-754A87F81E665D42", "source_work": "32 食疗本草.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0124", "passage_id": "TCFT-PASSAGE-79A239AB3C235C19", "source_work": "8e39fed12o25fb8578276afd09e356f0.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0125", "passage_id": "TCFT-PASSAGE-7911BADE50F8E45A", "source_work": "09 千金食治  食疗方.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0126", "passage_id": "TCFT-PASSAGE-D771B34B12D11234", "source_work": "27 饮膳正要.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0127", "passage_id": "TCFT-PASSAGE-40A4D6388D290508", "source_work": "32 食疗本草.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0128", "passage_id": "TCFT-PASSAGE-B24AFC245FA4C2D9", "source_work": "05 随园食单.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0129", "passage_id": "TCFT-PASSAGE-0AC94E662CE3D55B", "source_work": "8996f7340uae72fc4f9f641ea0edcd19.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0130", "passage_id": "TCFT-PASSAGE-B5C9C9DC69AA8481", "source_work": "养老奉亲书_13767473.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0131", "passage_id": "TCFT-PASSAGE-C7E7AAD25CB32159", "source_work": "食物本草_14051796.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0132", "passage_id": "TCFT-PASSAGE-A2D342B6D5A1AA6B", "source_work": "09 千金食治  食疗方.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0133", "passage_id": "TCFT-PASSAGE-5669D1D0ABA4CB15", "source_work": "养老奉亲书_13767473.txt", "final_label": "INSUFFICIENT_CONTEXT", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0134", "passage_id": "TCFT-PASSAGE-A169EEE289C00F52", "source_work": "本草求真 清·黄宫绣 篡 席与民 朱肇和 点校 1987年_10461767.txt", "final_label": "NOT_SUPPORTED", "reference_status": "third_annotator_adjudication"}
+{"item_id": "TCFT-EVR-0135", "passage_id": "TCFT-PASSAGE-F65DFD02850F371C", "source_work": "14 随息居饮食谱.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0136", "passage_id": "TCFT-PASSAGE-35B86A30B924EFA8", "source_work": "8e39fed12o25fb8578276afd09e356f0.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0137", "passage_id": "TCFT-PASSAGE-C30D4C009D5C5F64", "source_work": "13 食宪鸿秘.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0138", "passage_id": "TCFT-PASSAGE-FD36B040DFAACF5F", "source_work": "25 调鼎集.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0139", "passage_id": "TCFT-PASSAGE-0CE16B3D59D5BD4E", "source_work": "本草求真 清·黄宫绣 篡 席与民 朱肇和 点校 1987年_10461767.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0140", "passage_id": "TCFT-PASSAGE-016BF7882F0ECEDB", "source_work": "30 随园食单补证.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0141", "passage_id": "TCFT-PASSAGE-B884311E85A7197C", "source_work": "本草求真 清·黄宫绣 篡 席与民 朱肇和 点校 1987年_10461767.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0142", "passage_id": "TCFT-PASSAGE-A9F63579A5227A42", "source_work": "27 饮膳正要.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0143", "passage_id": "TCFT-PASSAGE-D570DD85C83ACDDD", "source_work": "30 随园食单补证.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0144", "passage_id": "TCFT-PASSAGE-DE04A58AED0886FF", "source_work": "27 饮膳正要.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0145", "passage_id": "TCFT-PASSAGE-0A4AB2E795BDA0A8", "source_work": "养老奉亲书_13767473.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0146", "passage_id": "TCFT-PASSAGE-67A363116F9C2F60", "source_work": "养老奉亲书_13767473.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0147", "passage_id": "TCFT-PASSAGE-B43CE4E1C64F1482", "source_work": "14 随息居饮食谱.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0148", "passage_id": "TCFT-PASSAGE-33455B5D978135A2", "source_work": "8e39fed12o25fb8578276afd09e356f0.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0149", "passage_id": "TCFT-PASSAGE-8BB853FE1DBDFA95", "source_work": "15 饮馔服食笺.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0150", "passage_id": "TCFT-PASSAGE-EB4628D86A53427B", "source_work": "食物本草_14051796.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0151", "passage_id": "TCFT-PASSAGE-BC380695003C4421", "source_work": "05 随园食单.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0152", "passage_id": "TCFT-PASSAGE-7EF9090097E7B49C", "source_work": "23 粥谱（二种）.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0153", "passage_id": "TCFT-PASSAGE-60CDEE9E03D6A0BC", "source_work": "养老奉亲书_13767473.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0154", "passage_id": "TCFT-PASSAGE-8441326C03862A4B", "source_work": "32 食疗本草.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0155", "passage_id": "TCFT-PASSAGE-111F6E35A8BA61B3", "source_work": "养老奉亲书_13767473.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0156", "passage_id": "TCFT-PASSAGE-0846A40F6E944C65", "source_work": "中医古籍整理丛书--110随息居饮食谱-[清]王士雄.txt", "final_label": "SUPPORTED", "reference_status": "third_annotator_adjudication"}
+{"item_id": "TCFT-EVR-0157", "passage_id": "TCFT-PASSAGE-843C8C9151A396BC", "source_work": "8e39fed12o25fb8578276afd09e356f0.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0158", "passage_id": "TCFT-PASSAGE-F6F25F3D829CB150", "source_work": "食物本草_14051796.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0159", "passage_id": "TCFT-PASSAGE-6E87E5A57143EEAE", "source_work": "30 随园食单补证.txt", "final_label": "NOT_SUPPORTED", "reference_status": "third_annotator_adjudication"}
+{"item_id": "TCFT-EVR-0160", "passage_id": "TCFT-PASSAGE-B47933B10D62FB84", "source_work": "25 调鼎集.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0161", "passage_id": "TCFT-PASSAGE-099D042C31E147AC", "source_work": "8e39fed12o25fb8578276afd09e356f0.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0162", "passage_id": "TCFT-PASSAGE-F3AAE6D7C7DDE837", "source_work": "本草求真 清·黄宫绣 篡 席与民 朱肇和 点校 1987年_10461767.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0163", "passage_id": "TCFT-PASSAGE-FC8C8DAAF991D3F8", "source_work": "随园食单（全本全注全译）中华书局2022.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0164", "passage_id": "TCFT-PASSAGE-D6F9B44AF8133C80", "source_work": "8e39fed12o25fb8578276afd09e356f0.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0165", "passage_id": "TCFT-PASSAGE-03BEA1186F5318D5", "source_work": "30 随园食单补证.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0166", "passage_id": "TCFT-PASSAGE-A7709BEE389D036F", "source_work": "食物本草_14051796.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0167", "passage_id": "TCFT-PASSAGE-BEA2851FEA71FCFA", "source_work": "25 调鼎集.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0168", "passage_id": "TCFT-PASSAGE-8D9C97B1FE192AF6", "source_work": "食鉴本草_14274304.txt", "final_label": "INSUFFICIENT_CONTEXT", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0169", "passage_id": "TCFT-PASSAGE-F5CFA1CB7718057A", "source_work": "30 随园食单补证.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0170", "passage_id": "TCFT-PASSAGE-DC6D1E88978FE2C5", "source_work": "27 饮膳正要.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0171", "passage_id": "TCFT-PASSAGE-11CFBA881B02F33D", "source_work": "32 食疗本草.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0172", "passage_id": "TCFT-PASSAGE-184623A786A222B8", "source_work": "本草求真 清·黄宫绣 篡 席与民 朱肇和 点校 1987年_10461767.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0173", "passage_id": "TCFT-PASSAGE-304C02F57375A175", "source_work": "食鉴本草_14274304.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0174", "passage_id": "TCFT-PASSAGE-ED9640A9FF1BE175", "source_work": "32 食疗本草.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0175", "passage_id": "TCFT-PASSAGE-364FD63051491B1A", "source_work": "25 调鼎集.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0176", "passage_id": "TCFT-PASSAGE-C150671E65D31FB7", "source_work": "本草求真 清·黄宫绣 篡 席与民 朱肇和 点校 1987年_10461767.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0177", "passage_id": "TCFT-PASSAGE-27EC4059157C1FE9", "source_work": "27 饮膳正要.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0178", "passage_id": "TCFT-PASSAGE-336342DF60C9EE44", "source_work": "25 调鼎集.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0179", "passage_id": "TCFT-PASSAGE-ACE3BB5C852C9415", "source_work": "14 随息居饮食谱.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0180", "passage_id": "TCFT-PASSAGE-2400BA1B771566F5", "source_work": "养老奉亲书_13767473.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0181", "passage_id": "TCFT-PASSAGE-DBC444962674582E", "source_work": "32 食疗本草.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0182", "passage_id": "TCFT-PASSAGE-3D224ACD2339F27D", "source_work": "08 养小录.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0183", "passage_id": "TCFT-PASSAGE-086DD300C508A6C4", "source_work": "27 饮膳正要.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0184", "passage_id": "TCFT-PASSAGE-A3EC8ECF97A23A67", "source_work": "养老奉亲书_13767473.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0185", "passage_id": "TCFT-PASSAGE-DFC492E4708E6DBA", "source_work": "本草求真 清·黄宫绣 篡 席与民 朱肇和 点校 1987年_10461767.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0186", "passage_id": "TCFT-PASSAGE-D863DA537CC18E86", "source_work": "养老奉亲书_13767473.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0187", "passage_id": "TCFT-PASSAGE-B7BE0DFFBE9E261D", "source_work": "08 养小录.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0188", "passage_id": "TCFT-PASSAGE-0C7AE00B386AD488", "source_work": "25 调鼎集.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0189", "passage_id": "TCFT-PASSAGE-5ED4D3522A8F0C37", "source_work": "12 齐民要术（饮食部分）.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0190", "passage_id": "TCFT-PASSAGE-052EE72535BA50B3", "source_work": "27 饮膳正要.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0191", "passage_id": "TCFT-PASSAGE-C6308AA56FEB274C", "source_work": "养老奉亲书_13767473.txt", "final_label": "SUPPORTED", "reference_status": "third_annotator_adjudication"}
+{"item_id": "TCFT-EVR-0192", "passage_id": "TCFT-PASSAGE-981D419421FF6320", "source_work": "32 食疗本草.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0193", "passage_id": "TCFT-PASSAGE-6CA3F972B193A6C7", "source_work": "14 随息居饮食谱.txt", "final_label": "SUPPORTED", "reference_status": "third_annotator_adjudication"}
+{"item_id": "TCFT-EVR-0194", "passage_id": "TCFT-PASSAGE-265EBA5F4F25D074", "source_work": "09 千金食治  食疗方.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0195", "passage_id": "TCFT-PASSAGE-AF57AB0C8925BDDC", "source_work": "09 千金食治  食疗方.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0196", "passage_id": "TCFT-PASSAGE-685F0AB7BA6C907D", "source_work": "8e39fed12o25fb8578276afd09e356f0.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0197", "passage_id": "TCFT-PASSAGE-65F7A79E3A6CBE01", "source_work": "23 粥谱（二种）.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0198", "passage_id": "TCFT-PASSAGE-EF279606B66D0B0C", "source_work": "32 食疗本草.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0199", "passage_id": "TCFT-PASSAGE-C634BE1A20C8B020", "source_work": "27 饮膳正要.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0200", "passage_id": "TCFT-PASSAGE-2DE83B1470BE9A8E", "source_work": "30 随园食单补证.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0201", "passage_id": "TCFT-PASSAGE-D27B9C9D148484DC", "source_work": "养老奉亲书_13767473.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0202", "passage_id": "TCFT-PASSAGE-D13E15348C3E92A6", "source_work": "30 随园食单补证.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0203", "passage_id": "TCFT-PASSAGE-4BAC79F0EFFB3188", "source_work": "27 饮膳正要.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0204", "passage_id": "TCFT-PASSAGE-880D8DEA29F9E3AF", "source_work": "8e39fed12o25fb8578276afd09e356f0.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0205", "passage_id": "TCFT-PASSAGE-9F0AF9D027E2C86D", "source_work": "22 菽园杂记（饮食部分）、升庵外集（饮食部分） 、 饮食绅言（饮食部分）.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0206", "passage_id": "TCFT-PASSAGE-2368189D42B013DC", "source_work": "本草求真 清·黄宫绣 篡 席与民 朱肇和 点校 1987年_10461767.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0207", "passage_id": "TCFT-PASSAGE-BC76F846D2A3DEA6", "source_work": "32 食疗本草.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0208", "passage_id": "TCFT-PASSAGE-2EF75CC5C666857D", "source_work": "32 食疗本草.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0209", "passage_id": "TCFT-PASSAGE-0B5C2CC9DA3C8AFA", "source_work": "18 先秦烹饪史料选注.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0210", "passage_id": "TCFT-PASSAGE-EAF2A67B59B6DD29", "source_work": "30 随园食单补证.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0211", "passage_id": "TCFT-PASSAGE-5F32707A0BAC1281", "source_work": "13 食宪鸿秘.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0212", "passage_id": "TCFT-PASSAGE-35A0C755FC2B0211", "source_work": "31 清嘉录.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0213", "passage_id": "TCFT-PASSAGE-12E0CBFB62AAF8E4", "source_work": "中医古籍整理丛书--110随息居饮食谱-[清]王士雄.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0214", "passage_id": "TCFT-PASSAGE-22DB4DB36FA7D4CF", "source_work": "27 饮膳正要.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0215", "passage_id": "TCFT-PASSAGE-4D5E83B3B8C84885", "source_work": "27 饮膳正要.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0216", "passage_id": "TCFT-PASSAGE-8FE72AE1472859B0", "source_work": "25 调鼎集.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0217", "passage_id": "TCFT-PASSAGE-FBE12EF6982F474A", "source_work": "8e39fed12o25fb8578276afd09e356f0.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0218", "passage_id": "TCFT-PASSAGE-1D8673A6B810F1F5", "source_work": "本草求真 清·黄宫绣 篡 席与民 朱肇和 点校 1987年_10461767.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0219", "passage_id": "TCFT-PASSAGE-3ABE440109B921B3", "source_work": "32 食疗本草.txt", "final_label": "NOT_SUPPORTED", "reference_status": "third_annotator_adjudication"}
+{"item_id": "TCFT-EVR-0220", "passage_id": "TCFT-PASSAGE-A40CEE0D38B44335", "source_work": "13 食宪鸿秘.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0221", "passage_id": "TCFT-PASSAGE-16C309B3AFA2EEB0", "source_work": "32 食疗本草.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0222", "passage_id": "TCFT-PASSAGE-BA7935E71A254F36", "source_work": "12 齐民要术（饮食部分）.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0223", "passage_id": "TCFT-PASSAGE-6E4DF086E55A4B4C", "source_work": "32 食疗本草.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0224", "passage_id": "TCFT-PASSAGE-95695BB16C2534E1", "source_work": "食鉴本草_14274304.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0225", "passage_id": "TCFT-PASSAGE-494E197247F96E85", "source_work": "02 易牙遗意.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0226", "passage_id": "TCFT-PASSAGE-9E3CEC03792364B6", "source_work": "本草求真 清·黄宫绣 篡 席与民 朱肇和 点校 1987年_10461767.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0227", "passage_id": "TCFT-PASSAGE-453B721ECAB9DA3B", "source_work": "32 食疗本草.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0228", "passage_id": "TCFT-PASSAGE-E18245D62DAB3BBE", "source_work": "30 随园食单补证.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0229", "passage_id": "TCFT-PASSAGE-AB406227447E92E3", "source_work": "32 食疗本草.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0230", "passage_id": "TCFT-PASSAGE-D37AB47B586E5EC2", "source_work": "27 饮膳正要.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0231", "passage_id": "TCFT-PASSAGE-AB9E157641F80A93", "source_work": "04 醒园录.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0232", "passage_id": "TCFT-PASSAGE-1CFED3E6C2EB02E8", "source_work": "30 随园食单补证.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0233", "passage_id": "TCFT-PASSAGE-F98A95152968D5EF", "source_work": "食物本草_14051796.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0234", "passage_id": "TCFT-PASSAGE-29FCA5BCDD1F203E", "source_work": "30 随园食单补证.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0235", "passage_id": "TCFT-PASSAGE-DD5670C823FF250F", "source_work": "09 千金食治  食疗方.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0236", "passage_id": "TCFT-PASSAGE-9CDF7F13585448EF", "source_work": "32 食疗本草.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0237", "passage_id": "TCFT-PASSAGE-3CF51C1D41C6D693", "source_work": "本草求真 清·黄宫绣 篡 席与民 朱肇和 点校 1987年_10461767.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0238", "passage_id": "TCFT-PASSAGE-2900E804698E2C18", "source_work": "本草求真 清·黄宫绣 篡 席与民 朱肇和 点校 1987年_10461767.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0239", "passage_id": "TCFT-PASSAGE-ED08208CDCE4A6E2", "source_work": "本草求真 清·黄宫绣 篡 席与民 朱肇和 点校 1987年_10461767.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0240", "passage_id": "TCFT-PASSAGE-0E00484EC8EDCE05", "source_work": "13 食宪鸿秘.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0241", "passage_id": "TCFT-PASSAGE-6F4D11A49EAFF0F5", "source_work": "27 饮膳正要.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0242", "passage_id": "TCFT-PASSAGE-67BEC400B8D0F696", "source_work": "30 随园食单补证.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0243", "passage_id": "TCFT-PASSAGE-B1E038828EB91EA1", "source_work": "09 千金食治  食疗方.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0244", "passage_id": "TCFT-PASSAGE-57586896DCB37921", "source_work": "09 千金食治  食疗方.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0245", "passage_id": "TCFT-PASSAGE-4FB4E551CD81967B", "source_work": "14 随息居饮食谱.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0246", "passage_id": "TCFT-PASSAGE-C4F0AE81EBDC01E1", "source_work": "养老奉亲书_13767473.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0247", "passage_id": "TCFT-PASSAGE-B2BC9F7AAFBF2CC4", "source_work": "27 饮膳正要.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0248", "passage_id": "TCFT-PASSAGE-8332447868BDFEB2", "source_work": "10 清异录（饮食部分）.txt", "final_label": "NOT_SUPPORTED", "reference_status": "third_annotator_adjudication"}
+{"item_id": "TCFT-EVR-0249", "passage_id": "TCFT-PASSAGE-BBBFE9B9C342DD03", "source_work": "15 饮馔服食笺.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0250", "passage_id": "TCFT-PASSAGE-0D9330ECC6F452A6", "source_work": "食物本草_14051796.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0251", "passage_id": "TCFT-PASSAGE-7C066C68F5236509", "source_work": "养老奉亲书_13767473.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0252", "passage_id": "TCFT-PASSAGE-6C042D318A6CAB04", "source_work": "30 随园食单补证.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0253", "passage_id": "TCFT-PASSAGE-DE418C810C3CE501", "source_work": "8e39fed12o25fb8578276afd09e356f0.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0254", "passage_id": "TCFT-PASSAGE-D6728FB9B6D01899", "source_work": "养老奉亲书_13767473.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0255", "passage_id": "TCFT-PASSAGE-68F0453E4F422E3E", "source_work": "27 饮膳正要.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0256", "passage_id": "TCFT-PASSAGE-B7538BE2BABBC61B", "source_work": "20 居家必用事类全集（饮食类）.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0257", "passage_id": "TCFT-PASSAGE-4017D66CB235EE93", "source_work": "27 饮膳正要.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0258", "passage_id": "TCFT-PASSAGE-47BEF301C2459939", "source_work": "随园食单（全本全注全译）中华书局2022.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0259", "passage_id": "TCFT-PASSAGE-D324F85E40E8667B", "source_work": "25 调鼎集.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0260", "passage_id": "TCFT-PASSAGE-3BD6E7B7B0DB5B8D", "source_work": "本草求真 清·黄宫绣 篡 席与民 朱肇和 点校 1987年_10461767.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0261", "passage_id": "TCFT-PASSAGE-F42DA8E02ABFFBD8", "source_work": "养老奉亲书_13767473.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0262", "passage_id": "TCFT-PASSAGE-F04F20AB68A3400D", "source_work": "本草求真 清·黄宫绣 篡 席与民 朱肇和 点校 1987年_10461767.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0263", "passage_id": "TCFT-PASSAGE-13814BE15C46287A", "source_work": "30 随园食单补证.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0264", "passage_id": "TCFT-PASSAGE-3309D5B1BEBFFF6A", "source_work": "27 饮膳正要.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0265", "passage_id": "TCFT-PASSAGE-EF07E78670AC34C0", "source_work": "27 饮膳正要.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0266", "passage_id": "TCFT-PASSAGE-5654A225894D40DA", "source_work": "29 陆游饮食诗选注.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0267", "passage_id": "TCFT-PASSAGE-EFAB16E9A8B9046D", "source_work": "25 调鼎集.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0268", "passage_id": "TCFT-PASSAGE-EAAF1BB8A48412E1", "source_work": "32 食疗本草.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0269", "passage_id": "TCFT-PASSAGE-433491860D0ADA36", "source_work": "30 随园食单补证.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0270", "passage_id": "TCFT-PASSAGE-756EC36B831F0B2B", "source_work": "8e39fed12o25fb8578276afd09e356f0.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0271", "passage_id": "TCFT-PASSAGE-9DEB135C9D33C744", "source_work": "13 食宪鸿秘.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0272", "passage_id": "TCFT-PASSAGE-4A99A65ACFD35E1C", "source_work": "27 饮膳正要.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0273", "passage_id": "TCFT-PASSAGE-A9126237D55D4B2E", "source_work": "本草求真 清·黄宫绣 篡 席与民 朱肇和 点校 1987年_10461767.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0274", "passage_id": "TCFT-PASSAGE-823DD17949D1A11E", "source_work": "25 调鼎集.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0275", "passage_id": "TCFT-PASSAGE-4DCE68B3C2F2241B", "source_work": "本草求真 清·黄宫绣 篡 席与民 朱肇和 点校 1987年_10461767.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0276", "passage_id": "TCFT-PASSAGE-AAF2F2C2FCD93373", "source_work": "8e39fed12o25fb8578276afd09e356f0.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0277", "passage_id": "TCFT-PASSAGE-511CD8103D58C0BE", "source_work": "30 随园食单补证.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0278", "passage_id": "TCFT-PASSAGE-49CF91AACA28194B", "source_work": "25 调鼎集.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0279", "passage_id": "TCFT-PASSAGE-E63FBB9E608E277A", "source_work": "25 调鼎集.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0280", "passage_id": "TCFT-PASSAGE-E8AC91494FFE1A8D", "source_work": "23 粥谱（二种）.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0281", "passage_id": "TCFT-PASSAGE-58B950FF5D1EE91E", "source_work": "02 易牙遗意.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0282", "passage_id": "TCFT-PASSAGE-01699CBD07F4AF1D", "source_work": "养老奉亲书_13767473.txt", "final_label": "SUPPORTED", "reference_status": "third_annotator_adjudication"}
+{"item_id": "TCFT-EVR-0283", "passage_id": "TCFT-PASSAGE-7096F1A8CE2D8595", "source_work": "25 调鼎集.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0284", "passage_id": "TCFT-PASSAGE-941C8BD1D4433B05", "source_work": "32 食疗本草.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0285", "passage_id": "TCFT-PASSAGE-5B19A041A46F777C", "source_work": "14 随息居饮食谱.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0286", "passage_id": "TCFT-PASSAGE-5ADF5E575F233A44", "source_work": "8e39fed12o25fb8578276afd09e356f0.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0287", "passage_id": "TCFT-PASSAGE-682F84536527E6EA", "source_work": "食鉴本草_14274304.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0288", "passage_id": "TCFT-PASSAGE-1D755B7F537F88B4", "source_work": "养老奉亲书_13767473.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0289", "passage_id": "TCFT-PASSAGE-53747FC3307F7CB3", "source_work": "27 饮膳正要.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0290", "passage_id": "TCFT-PASSAGE-38721B322782507E", "source_work": "27 饮膳正要.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0291", "passage_id": "TCFT-PASSAGE-9B8616FC13E1B687", "source_work": "8e39fed12o25fb8578276afd09e356f0.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0292", "passage_id": "TCFT-PASSAGE-6EDFF4F1C6ACABA7", "source_work": "30 随园食单补证.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0293", "passage_id": "TCFT-PASSAGE-477E23C04D18D5A1", "source_work": "27 饮膳正要.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0294", "passage_id": "TCFT-PASSAGE-4299081C658806E9", "source_work": "养老奉亲书_13767473.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0295", "passage_id": "TCFT-PASSAGE-A6D800B0102D4B9D", "source_work": "30 随园食单补证.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0296", "passage_id": "TCFT-PASSAGE-5E80FFD5D13628F1", "source_work": "养老奉亲书_13767473.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0297", "passage_id": "TCFT-PASSAGE-B72E5D61116AAC92", "source_work": "养老奉亲书_13767473.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0298", "passage_id": "TCFT-PASSAGE-B6E48A743D7180AC", "source_work": "本草求真 清·黄宫绣 篡 席与民 朱肇和 点校 1987年_10461767.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0299", "passage_id": "TCFT-PASSAGE-C8D25711A8C4BE55", "source_work": "32 食疗本草.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0300", "passage_id": "TCFT-PASSAGE-8880C0C57D069B7C", "source_work": "09 千金食治  食疗方.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0301", "passage_id": "TCFT-PASSAGE-7A25DEBF85508856", "source_work": "8e39fed12o25fb8578276afd09e356f0.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0302", "passage_id": "TCFT-PASSAGE-E220F6656D02D364", "source_work": "养老奉亲书_13767473.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0303", "passage_id": "TCFT-PASSAGE-7E44B608A13EA046", "source_work": "8e39fed12o25fb8578276afd09e356f0.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0304", "passage_id": "TCFT-PASSAGE-CF1D7D9B3B8D5AAE", "source_work": "27 饮膳正要.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0305", "passage_id": "TCFT-PASSAGE-976DC443A4B1A8D8", "source_work": "30 随园食单补证.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0306", "passage_id": "TCFT-PASSAGE-CE5ED49558663649", "source_work": "27 饮膳正要.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0307", "passage_id": "TCFT-PASSAGE-19AAECF4C9FA40D1", "source_work": "27 饮膳正要.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0308", "passage_id": "TCFT-PASSAGE-46FCFDB530875780", "source_work": "10 清异录（饮食部分）.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0309", "passage_id": "TCFT-PASSAGE-A8D1ACBF3853DE26", "source_work": "27 饮膳正要.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0310", "passage_id": "TCFT-PASSAGE-17CA3E0AB7C61ED3", "source_work": "25 调鼎集.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0311", "passage_id": "TCFT-PASSAGE-6E2A682073856AE3", "source_work": "13 食宪鸿秘.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0312", "passage_id": "TCFT-PASSAGE-756949E82BC58E6F", "source_work": "27 饮膳正要.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0313", "passage_id": "TCFT-PASSAGE-F281858AD091D347", "source_work": "32 食疗本草.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0314", "passage_id": "TCFT-PASSAGE-FDFDC45852505CCC", "source_work": "养老奉亲书_13767473.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0315", "passage_id": "TCFT-PASSAGE-4EF4F5ECD7A6E696", "source_work": "本草求真 清·黄宫绣 篡 席与民 朱肇和 点校 1987年_10461767.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0316", "passage_id": "TCFT-PASSAGE-B8970D3D54E3211B", "source_work": "32 食疗本草.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0317", "passage_id": "TCFT-PASSAGE-6BDC67347DEFB183", "source_work": "8e39fed12o25fb8578276afd09e356f0.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0318", "passage_id": "TCFT-PASSAGE-8445E3621A5D6661", "source_work": "本草求真 清·黄宫绣 篡 席与民 朱肇和 点校 1987年_10461767.txt", "final_label": "SUPPORTED", "reference_status": "third_annotator_adjudication"}
+{"item_id": "TCFT-EVR-0319", "passage_id": "TCFT-PASSAGE-4AB17198BDBCDC3D", "source_work": "28 浪迹丛谈四种（饮食部分）.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0320", "passage_id": "TCFT-PASSAGE-0FD2019CECB95297", "source_work": "27 饮膳正要.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0321", "passage_id": "TCFT-PASSAGE-71CCAEDC0709738B", "source_work": "本草求真 清·黄宫绣 篡 席与民 朱肇和 点校 1987年_10461767.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0322", "passage_id": "TCFT-PASSAGE-3A19F630A7CB57C1", "source_work": "19 吴氏中馈录  本心斋疏食谱  （外四种）.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0323", "passage_id": "TCFT-PASSAGE-B6572FBA73391B35", "source_work": "10 清异录（饮食部分）.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0324", "passage_id": "TCFT-PASSAGE-8122553055937B73", "source_work": "14 随息居饮食谱.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0325", "passage_id": "TCFT-PASSAGE-9BB53A0B38A142C5", "source_work": "25 调鼎集.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0326", "passage_id": "TCFT-PASSAGE-B7554312464EDDBD", "source_work": "14 随息居饮食谱.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0327", "passage_id": "TCFT-PASSAGE-4EC0389A1A1C77C3", "source_work": "15 饮馔服食笺.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0328", "passage_id": "TCFT-PASSAGE-F2578CFA0637F427", "source_work": "养老奉亲书_13767473.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0329", "passage_id": "TCFT-PASSAGE-853467C7233F21CA", "source_work": "中医古籍整理丛书--110随息居饮食谱-[清]王士雄.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0330", "passage_id": "TCFT-PASSAGE-2D0AD49968E5F344", "source_work": "养老奉亲书_13767473.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0331", "passage_id": "TCFT-PASSAGE-FC8EDEC0F73B7E2E", "source_work": "养老奉亲书_13767473.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0332", "passage_id": "TCFT-PASSAGE-5EF7F1E47C17A4D8", "source_work": "32 食疗本草.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0333", "passage_id": "TCFT-PASSAGE-5071CC24FC98A62B", "source_work": "随园食单（全本全注全译）中华书局2022.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0334", "passage_id": "TCFT-PASSAGE-FFD63FD878F03AE4", "source_work": "30 随园食单补证.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0335", "passage_id": "TCFT-PASSAGE-8E2FFC9DF63BB103", "source_work": "30 随园食单补证.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0336", "passage_id": "TCFT-PASSAGE-DFB6E8061ECBA1A7", "source_work": "09 千金食治  食疗方.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0337", "passage_id": "TCFT-PASSAGE-7B498DEEABF0890C", "source_work": "本草求真 清·黄宫绣 篡 席与民 朱肇和 点校 1987年_10461767.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0338", "passage_id": "TCFT-PASSAGE-3E62FDCCE9B97749", "source_work": "8e39fed12o25fb8578276afd09e356f0.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0339", "passage_id": "TCFT-PASSAGE-FCF509CB129A32AF", "source_work": "本草求真 清·黄宫绣 篡 席与民 朱肇和 点校 1987年_10461767.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0340", "passage_id": "TCFT-PASSAGE-257921D85143E607", "source_work": "09 千金食治  食疗方.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0341", "passage_id": "TCFT-PASSAGE-9751FCE7A702FC40", "source_work": "12 齐民要术（饮食部分）.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0342", "passage_id": "TCFT-PASSAGE-75CBDC729B2280AB", "source_work": "27 饮膳正要.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0343", "passage_id": "TCFT-PASSAGE-4DB4A5CB0A94EF0A", "source_work": "09 千金食治  食疗方.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0344", "passage_id": "TCFT-PASSAGE-9B1DB9702F158370", "source_work": "25 调鼎集.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0345", "passage_id": "TCFT-PASSAGE-F958FAB43F30BE77", "source_work": "本草求真 清·黄宫绣 篡 席与民 朱肇和 点校 1987年_10461767.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0346", "passage_id": "TCFT-PASSAGE-8648EBDEF150C5CB", "source_work": "随园食单（全本全注全译）中华书局2022.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0347", "passage_id": "TCFT-PASSAGE-00935B9BA13BDF0C", "source_work": "13 食宪鸿秘.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0348", "passage_id": "TCFT-PASSAGE-A0CF380FFE693E19", "source_work": "12 齐民要术（饮食部分）.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0349", "passage_id": "TCFT-PASSAGE-0698601B044430C2", "source_work": "09 千金食治  食疗方.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0350", "passage_id": "TCFT-PASSAGE-D003715F70669ABC", "source_work": "17 能改斋漫录（饮食部分）.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0351", "passage_id": "TCFT-PASSAGE-5A0548A291D27144", "source_work": "05 随园食单.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0352", "passage_id": "TCFT-PASSAGE-6B4D634A9E7E3A89", "source_work": "25 调鼎集.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0353", "passage_id": "TCFT-PASSAGE-F392CB9C5B233E5B", "source_work": "09 千金食治  食疗方.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0354", "passage_id": "TCFT-PASSAGE-2EA58AC40A05FAAE", "source_work": "养老奉亲书_13767473.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0355", "passage_id": "TCFT-PASSAGE-E168EF359DFBC90A", "source_work": "20 居家必用事类全集（饮食类）.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0356", "passage_id": "TCFT-PASSAGE-3D446B7F0DDB0B71", "source_work": "19 吴氏中馈录  本心斋疏食谱  （外四种）.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0357", "passage_id": "TCFT-PASSAGE-89E5333D43D7DE8A", "source_work": "本草求真 清·黄宫绣 篡 席与民 朱肇和 点校 1987年_10461767.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0358", "passage_id": "TCFT-PASSAGE-62EB881EF60891A7", "source_work": "27 饮膳正要.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0359", "passage_id": "TCFT-PASSAGE-0C4F62C4AC38E69C", "source_work": "32 食疗本草.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0360", "passage_id": "TCFT-PASSAGE-1650A0C43960CFE7", "source_work": "养老奉亲书_13767473.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0361", "passage_id": "TCFT-PASSAGE-B711337059F93578", "source_work": "本草求真 清·黄宫绣 篡 席与民 朱肇和 点校 1987年_10461767.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0362", "passage_id": "TCFT-PASSAGE-3F1C3C091D737190", "source_work": "14 随息居饮食谱.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0363", "passage_id": "TCFT-PASSAGE-36C53FBF721EE335", "source_work": "30 随园食单补证.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0364", "passage_id": "TCFT-PASSAGE-D27D82AAB313D672", "source_work": "09 千金食治  食疗方.txt", "final_label": "INSUFFICIENT_CONTEXT", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0365", "passage_id": "TCFT-PASSAGE-FD22EEB2FDC44861", "source_work": "31 清嘉录.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0366", "passage_id": "TCFT-PASSAGE-055077F4C853CAF0", "source_work": "27 饮膳正要.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0367", "passage_id": "TCFT-PASSAGE-5AC04D53206A9156", "source_work": "12 齐民要术（饮食部分）.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0368", "passage_id": "TCFT-PASSAGE-77021D6EDADD9401", "source_work": "本草求真 清·黄宫绣 篡 席与民 朱肇和 点校 1987年_10461767.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0369", "passage_id": "TCFT-PASSAGE-E7E17EA589D14E6D", "source_work": "32 食疗本草.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0370", "passage_id": "TCFT-PASSAGE-A8829D22C85E8811", "source_work": "食鉴本草_14274304.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0371", "passage_id": "TCFT-PASSAGE-E72B6AC2A4AA3DC5", "source_work": "09 千金食治  食疗方.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0372", "passage_id": "TCFT-PASSAGE-3E992CBAE3BB77B8", "source_work": "27 饮膳正要.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0373", "passage_id": "TCFT-PASSAGE-C067E3654AF23580", "source_work": "32 食疗本草.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0374", "passage_id": "TCFT-PASSAGE-91309A4B07B3063C", "source_work": "养老奉亲书_13767473.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0375", "passage_id": "TCFT-PASSAGE-7E2CC622FFDF6A69", "source_work": "8e39fed12o25fb8578276afd09e356f0.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0376", "passage_id": "TCFT-PASSAGE-F57F02191FAD2DF1", "source_work": "养老奉亲书_13767473.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0377", "passage_id": "TCFT-PASSAGE-4EF03C48A972870A", "source_work": "32 食疗本草.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0378", "passage_id": "TCFT-PASSAGE-C5DE3395E65EB70D", "source_work": "养老奉亲书_13767473.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0379", "passage_id": "TCFT-PASSAGE-AA7F1E38CBEC470C", "source_work": "25 调鼎集.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0380", "passage_id": "TCFT-PASSAGE-D31D055E42B3528D", "source_work": "25 调鼎集.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0381", "passage_id": "TCFT-PASSAGE-54808FE1155FF7A3", "source_work": "32 食疗本草.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0382", "passage_id": "TCFT-PASSAGE-FCC5541ACD570AA4", "source_work": "8e39fed12o25fb8578276afd09e356f0.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0383", "passage_id": "TCFT-PASSAGE-B57409D2810DC728", "source_work": "本草求真 清·黄宫绣 篡 席与民 朱肇和 点校 1987年_10461767.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0384", "passage_id": "TCFT-PASSAGE-2922B09F12944E1F", "source_work": "27 饮膳正要.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0385", "passage_id": "TCFT-PASSAGE-57AC25B3C7C0A1E7", "source_work": "09 千金食治  食疗方.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0386", "passage_id": "TCFT-PASSAGE-8576571B8EEA6644", "source_work": "14 随息居饮食谱.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0387", "passage_id": "TCFT-PASSAGE-C5827541B8F7BF6A", "source_work": "8e39fed12o25fb8578276afd09e356f0.txt", "final_label": "NOT_SUPPORTED", "reference_status": "third_annotator_adjudication"}
+{"item_id": "TCFT-EVR-0388", "passage_id": "TCFT-PASSAGE-311293730B678350", "source_work": "30 随园食单补证.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0389", "passage_id": "TCFT-PASSAGE-879A8707BF2AC73F", "source_work": "05 随园食单.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0390", "passage_id": "TCFT-PASSAGE-8AAF6AA6815799E9", "source_work": "随园食单（全本全注全译）中华书局2022.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0391", "passage_id": "TCFT-PASSAGE-8610E8CA922AC2BD", "source_work": "27 饮膳正要.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0392", "passage_id": "TCFT-PASSAGE-6971D0A7E540D2B9", "source_work": "养老奉亲书_13767473.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0393", "passage_id": "TCFT-PASSAGE-B45816583B6DEEED", "source_work": "本草求真 清·黄宫绣 篡 席与民 朱肇和 点校 1987年_10461767.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0394", "passage_id": "TCFT-PASSAGE-572CCC6ADB50A5AF", "source_work": "32 食疗本草.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0395", "passage_id": "TCFT-PASSAGE-87CC007289D81728", "source_work": "32 食疗本草.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0396", "passage_id": "TCFT-PASSAGE-FCE0B3E43AF4A662", "source_work": "养老奉亲书_13767473.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0397", "passage_id": "TCFT-PASSAGE-A563D8220D74A67E", "source_work": "30 随园食单补证.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0398", "passage_id": "TCFT-PASSAGE-8ACF111B8F364234", "source_work": "养老奉亲书_13767473.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0399", "passage_id": "TCFT-PASSAGE-1128B11817687694", "source_work": "05 随园食单.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0400", "passage_id": "TCFT-PASSAGE-AD411EBE783198A8", "source_work": "14 随息居饮食谱.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0401", "passage_id": "TCFT-PASSAGE-CFD3B3AA0C9A08E4", "source_work": "养老奉亲书_13767473.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0402", "passage_id": "TCFT-PASSAGE-09D5E4DB90EDFBBF", "source_work": "养老奉亲书_13767473.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0403", "passage_id": "TCFT-PASSAGE-A54C3BA0E6302ACE", "source_work": "养老奉亲书_13767473.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0404", "passage_id": "TCFT-PASSAGE-CAB03F58BC980367", "source_work": "本草求真 清·黄宫绣 篡 席与民 朱肇和 点校 1987年_10461767.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0405", "passage_id": "TCFT-PASSAGE-728915C05C5E5225", "source_work": "32 食疗本草.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0406", "passage_id": "TCFT-PASSAGE-9679467F520D4C66", "source_work": "32 食疗本草.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0407", "passage_id": "TCFT-PASSAGE-1CE69BC5B9D3FDDA", "source_work": "30 随园食单补证.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0408", "passage_id": "TCFT-PASSAGE-D80969B14CAF4D6D", "source_work": "27 饮膳正要.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0409", "passage_id": "TCFT-PASSAGE-B296360617AAC457", "source_work": "32 食疗本草.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0410", "passage_id": "TCFT-PASSAGE-4C12C54AB34F2A04", "source_work": "27 饮膳正要.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0411", "passage_id": "TCFT-PASSAGE-394FC6C508DEC157", "source_work": "27 饮膳正要.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0412", "passage_id": "TCFT-PASSAGE-F4AA3A2AF1EBBEEF", "source_work": "8e39fed12o25fb8578276afd09e356f0.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0413", "passage_id": "TCFT-PASSAGE-6EF4B4D4805042FE", "source_work": "08 养小录.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0414", "passage_id": "TCFT-PASSAGE-05710411F6BC9E54", "source_work": "8e39fed12o25fb8578276afd09e356f0.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0415", "passage_id": "TCFT-PASSAGE-5174DF90BA721897", "source_work": "养老奉亲书_13767473.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0416", "passage_id": "TCFT-PASSAGE-587A7272C5C4C5FB", "source_work": "本草求真 清·黄宫绣 篡 席与民 朱肇和 点校 1987年_10461767.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0417", "passage_id": "TCFT-PASSAGE-55127497F4599AC2", "source_work": "养老奉亲书_13767473.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0418", "passage_id": "TCFT-PASSAGE-F9D9A92F33CD3484", "source_work": "25 调鼎集.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0419", "passage_id": "TCFT-PASSAGE-1FB360237ACF00B1", "source_work": "8e39fed12o25fb8578276afd09e356f0.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0420", "passage_id": "TCFT-PASSAGE-66BC196BA8DAFB1F", "source_work": "13 食宪鸿秘.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0421", "passage_id": "TCFT-PASSAGE-197FD72B3A456885", "source_work": "养老奉亲书_13767473.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0422", "passage_id": "TCFT-PASSAGE-0BAF6AD81CA9522C", "source_work": "31 清嘉录.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0423", "passage_id": "TCFT-PASSAGE-DAB717C6B11E1933", "source_work": "14 随息居饮食谱.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0424", "passage_id": "TCFT-PASSAGE-E17497BAA350E01B", "source_work": "30 随园食单补证.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0425", "passage_id": "TCFT-PASSAGE-EA8739299E008341", "source_work": "14 随息居饮食谱.txt", "final_label": "SUPPORTED", "reference_status": "third_annotator_adjudication"}
+{"item_id": "TCFT-EVR-0426", "passage_id": "TCFT-PASSAGE-E18A9DC32A3424D6", "source_work": "本草求真 清·黄宫绣 篡 席与民 朱肇和 点校 1987年_10461767.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0427", "passage_id": "TCFT-PASSAGE-BF28815754470A7D", "source_work": "30 随园食单补证.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0428", "passage_id": "TCFT-PASSAGE-DA81AADAA1A8D5E1", "source_work": "随园食单（全本全注全译）中华书局2022.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0429", "passage_id": "TCFT-PASSAGE-A9DBC6E5B2F24DC0", "source_work": "32 食疗本草.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0430", "passage_id": "TCFT-PASSAGE-AC37689AD2922611", "source_work": "32 食疗本草.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0431", "passage_id": "TCFT-PASSAGE-21015F52645431C2", "source_work": "养老奉亲书_13767473.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0432", "passage_id": "TCFT-PASSAGE-4CC4DBA216D692AD", "source_work": "27 饮膳正要.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0433", "passage_id": "TCFT-PASSAGE-9ED97CA94E79D850", "source_work": "22 菽园杂记（饮食部分）、升庵外集（饮食部分） 、 饮食绅言（饮食部分）.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0434", "passage_id": "TCFT-PASSAGE-8AD00BA8B1134B8F", "source_work": "13 食宪鸿秘.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0435", "passage_id": "TCFT-PASSAGE-F32B3044552FF281", "source_work": "13 食宪鸿秘.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0436", "passage_id": "TCFT-PASSAGE-A1B8D10341ADFBA2", "source_work": "15 饮馔服食笺.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0437", "passage_id": "TCFT-PASSAGE-B6AFD3562BCA0441", "source_work": "02 易牙遗意.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0438", "passage_id": "TCFT-PASSAGE-C32DD7D2AFFCEFE9", "source_work": "14 随息居饮食谱.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0439", "passage_id": "TCFT-PASSAGE-587FD8DDBA832CD4", "source_work": "养老奉亲书_13767473.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0440", "passage_id": "TCFT-PASSAGE-58BD024495D7A51B", "source_work": "13 食宪鸿秘.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0441", "passage_id": "TCFT-PASSAGE-803647E5CBAAFB7B", "source_work": "25 调鼎集.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0442", "passage_id": "TCFT-PASSAGE-B13A43237F8E81E0", "source_work": "27 饮膳正要.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0443", "passage_id": "TCFT-PASSAGE-3DD21E0B814633EC", "source_work": "20 居家必用事类全集（饮食类）.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0444", "passage_id": "TCFT-PASSAGE-DC6262B36357B4F2", "source_work": "本草求真 清·黄宫绣 篡 席与民 朱肇和 点校 1987年_10461767.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0445", "passage_id": "TCFT-PASSAGE-378835ED1E7005D7", "source_work": "32 食疗本草.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0446", "passage_id": "TCFT-PASSAGE-9E2132C72467858D", "source_work": "本草求真 清·黄宫绣 篡 席与民 朱肇和 点校 1987年_10461767.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0447", "passage_id": "TCFT-PASSAGE-63D326E82F7297C4", "source_work": "养老奉亲书_13767473.txt", "final_label": "ENTITY_OR_TYPE_ERROR", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0448", "passage_id": "TCFT-PASSAGE-50B8213F71971FDE", "source_work": "27 饮膳正要.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0449", "passage_id": "TCFT-PASSAGE-6043225CCD87143D", "source_work": "8e39fed12o25fb8578276afd09e356f0.txt", "final_label": "NOT_SUPPORTED", "reference_status": "two_annotator_agreement"}
+{"item_id": "TCFT-EVR-0450", "passage_id": "TCFT-PASSAGE-BA655F336D03720B", "source_work": "27 饮膳正要.txt", "final_label": "SUPPORTED", "reference_status": "two_annotator_agreement"}

@@ -1,0 +1,48 @@
+{
+  "treats": {
+    "group": "ingredient_condition",
+    "display_name": "食材与历史病症关联",
+    "definition": "当前文本是否明确记载该食材与所给历史病症或症状之间的治疗或食疗关联。"
+  },
+  "hasEffect": {
+    "group": "ingredient_effect",
+    "display_name": "食材具有传统功效",
+    "definition": "当前文本是否明确将所给传统功效归于该食材。"
+  },
+  "containsIngredient": {
+    "group": "recipe_ingredient",
+    "display_name": "食疗方包含食材",
+    "definition": "当前文本是否明确说明该食疗方包含所给食材。"
+  },
+  "treatedByRecipe": {
+    "group": "recipe_condition",
+    "display_name": "历史病症与食疗方关联",
+    "definition": "当前文本是否明确记载该历史病症或症状与所给食疗方之间的治疗关联。"
+  },
+  "usesCookingMethod": {
+    "group": "recipe_cooking_method",
+    "display_name": "食疗方采用烹饪方法",
+    "definition": "当前文本是否明确说明该食疗方采用所给制备或烹饪方法。"
+  },
+  "contraindicates": {
+    "group": "ingredient_taboo",
+    "display_name": "食材与历史禁忌关联",
+    "definition": "当前文本是否明确记载该食材具有所给历史食用禁忌。"
+  },
+  "hasNature": {
+    "group": "nature_flavor_meridian",
+    "display_name": "食材具有食性",
+    "definition": "当前文本是否明确将所给寒热温凉等食性归于该食材。"
+  },
+  "hasFlavor": {
+    "group": "nature_flavor_meridian",
+    "display_name": "食材具有食味",
+    "definition": "当前文本是否明确将所给酸苦甘辛咸等食味归于该食材。"
+  },
+  "entersmeridian": {
+    "group": "nature_flavor_meridian",
+    "display_name": "食材归入经络",
+    "definition": "当前文本是否明确记载该食材归入所给经络。"
+  }
+}
+

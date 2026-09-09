@@ -1,0 +1,18 @@
+{
+  "component": "fera_ecrp_sourcebal",
+  "fold_assignment_sha256": "1a753be84a5c505d07281b6e9d5e4ef0da3b5d4cf90e9a22412e2aa9e26c84b3",
+  "folds": 5,
+  "grouping_unit": "source_work",
+  "items": 1416,
+  "items_covered_exactly_once": true,
+  "prediction_sha256": "b516d44d67c6ae5128e45aef2863229fbadf09dd4a4ae6d235f25133e78cac43",
+  "seeds_per_fold": [
+    20260921,
+    20260922,
+    20260923,
+    20260924,
+    20260925
+  ],
+  "source_records_verified": 25,
+  "status": "SOURCE_WORK_GROUPED_FIVE_SEED_OOF_PREDICTIONS"
+}

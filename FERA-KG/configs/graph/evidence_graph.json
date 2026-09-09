@@ -1,0 +1,18 @@
+{
+  "node_types": ["typed_entity", "passage", "source"],
+  "edge_types": ["asserted_semantic_relation", "mentioned_in", "derived_from"],
+  "primary_path_constraints": {
+    "maximum_hops": 3,
+    "minimum_asserted_semantic_edges": 1,
+    "remove_all_exact_target_edges": true,
+    "reject_pure_same_passage_comention": true,
+    "source_only_shortcuts_allowed": false
+  },
+  "provenance_constraints": {
+    "crosswalk_must_be_reviewed": true,
+    "same_passage_graph_edges_removed": true,
+    "unresolved_crosswalk_items_excluded_from_primary_test": true
+  },
+  "status": "diagnostic_configuration_pending_crosswalk_review"
+}
+

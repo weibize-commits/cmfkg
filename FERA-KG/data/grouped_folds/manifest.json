@@ -1,0 +1,81 @@
+{
+  "assignment_sha256": "1a753be84a5c505d07281b6e9d5e4ef0da3b5d4cf90e9a22412e2aa9e26c84b3",
+  "fold_summaries": [
+    {
+      "files": {
+        "development": "d79603c9be4224fb58e37fb990e6eacd52d5a32eb8516ec9b60e2b80df0ee645",
+        "development_graph_paths": "1aa6aacb5ae1153a617aee4e3cb9691996bb88bbc15f4c3600d7073227c51710",
+        "train": "c397d3d97e03b5d9fdf52ee48d1691930eaaa367c60e03e92e3af662cfe4b1df",
+        "train_graph_paths": "25cf7a993dfb46017d432cc4ee4d3803f3e722528dbe68d2590ce93b1b562cae"
+      },
+      "fold": 0,
+      "heldout_items": 296,
+      "heldout_source_works": 6,
+      "source_work_overlap": 0,
+      "train_items": 1120,
+      "train_source_works": 23
+    },
+    {
+      "files": {
+        "development": "c6a1a9aa1228308139216f764ec532d78d5c8806d7855e5ee6a9bcbf5e9792c9",
+        "development_graph_paths": "573f769bfcf9620d9daecb14a3057dd2e9ff01c100e855745ed307a007abd66a",
+        "train": "f15a2632979325d47eeaee39df2ddd4e418f4e34c8b604f0a673b13e16857855",
+        "train_graph_paths": "befed884f334f7552b8b82f92569b4083973583a487bf4cc3a9853171eabf17c"
+      },
+      "fold": 1,
+      "heldout_items": 279,
+      "heldout_source_works": 5,
+      "source_work_overlap": 0,
+      "train_items": 1137,
+      "train_source_works": 24
+    },
+    {
+      "files": {
+        "development": "955986e4ef9b10d915d78d20b30cdc755c7db6743683185d79d85f09b653dee6",
+        "development_graph_paths": "9b1da3d7507783355a7db52e50b77dad7ee7e61a61467c8e4d213f2a52e2511b",
+        "train": "98e694b76b7166e4f2db2d8243b84a797f9fcdd7f88c20dac5dc26bf7f395a2f",
+        "train_graph_paths": "c5479b84495f35d3aa2a3ff1f8e78be26884b635278e592568fddd44e6c46c59"
+      },
+      "fold": 2,
+      "heldout_items": 271,
+      "heldout_source_works": 6,
+      "source_work_overlap": 0,
+      "train_items": 1145,
+      "train_source_works": 23
+    },
+    {
+      "files": {
+        "development": "67dda438184b20bfd593094204be6ba2ce4288efade93387ee4e22448697112f",
+        "development_graph_paths": "a67540f10a3f4e772f03c4d775db31b485f9fca6d9fe0c408c8c21eb20f82342",
+        "train": "52eec08a96e00bc50ce09fa8fbde557c24bd269474d8f5ece5d4efba848e30d7",
+        "train_graph_paths": "1a23913c4f750890bfab1cabef45caebe462b121d08a4df595b5bf0119eb61e0"
+      },
+      "fold": 3,
+      "heldout_items": 281,
+      "heldout_source_works": 6,
+      "source_work_overlap": 0,
+      "train_items": 1135,
+      "train_source_works": 23
+    },
+    {
+      "files": {
+        "development": "ed27c504e3bfa6593b08ee9a8010b021b4da9bac9a0e8e1c30c13064ef27c0d4",
+        "development_graph_paths": "114142cd054b93fad61308f9ee3f1783b2b8d3e264f7122c5d26cd5538e72dc6",
+        "train": "174d845db1f6249f198406aa2fd626c0194cebd9546e189c495fee4fd3a44eb2",
+        "train_graph_paths": "b6e78f8ed7848331d922020394a53854c2844264ad3808ca017971437a134744"
+      },
+      "fold": 4,
+      "heldout_items": 289,
+      "heldout_source_works": 6,
+      "source_work_overlap": 0,
+      "train_items": 1127,
+      "train_source_works": 23
+    }
+  ],
+  "folds": 5,
+  "grouping_unit": "source_work",
+  "items": 1416,
+  "source_graph_paths_sha256": "c533109b91987673c91eabea405bc1298fc74e9cbe92c9bb94ed773c8168e7d6",
+  "source_items_sha256": "fe2ec54ec0abcfc03155c7292fe7879069badbb52bbbea96f0cd0104af391dcf",
+  "status": "FROZEN_SOURCE_WORK_DISJOINT_FOLDS"
+}

@@ -1,0 +1,33 @@
+﻿figure,panel,evaluation,system,metric,label_or_condition,value,n,ci95_lower,ci95_upper
+Fig. 4,a,Primary natural,component::fera_ecrp,Macro-F1,,0.24033671891698694,600,,
+Fig. 4,a,Primary natural,component::fera_ecrp_sourcebal,Macro-F1,,0.2790943869841462,600,,
+Fig. 4,a,Primary natural,component::text_entity,Macro-F1,,0.24969788046573677,600,,
+Fig. 4,a,Primary natural,component::graph_anchor_wide,Macro-F1,,0.23910273818196692,600,,
+Fig. 4,a,Primary natural,component::same_backbone_no_ecrp,Macro-F1,,0.25021533161068044,600,,
+Fig. 4,a,Difficulty track,component::fera_ecrp,Macro-F1,,0.17352290204467205,200,,
+Fig. 4,a,Difficulty track,component::fera_ecrp_sourcebal,Macro-F1,,0.19287828999615148,200,,
+Fig. 4,a,Difficulty track,component::text_entity,Macro-F1,,0.13532926519196542,200,,
+Fig. 4,a,Difficulty track,component::graph_anchor_wide,Macro-F1,,0.23446127259597038,200,,
+Fig. 4,a,Difficulty track,component::same_backbone_no_ecrp,Macro-F1,,0.1688155515370705,200,,
+Fig. 4,a,Controlled challenge,component::fera_ecrp,Macro-F1,,0.42932868551976955,450,,
+Fig. 4,a,Controlled challenge,component::fera_ecrp_sourcebal,Macro-F1,,0.4065339983796052,450,,
+Fig. 4,a,Controlled challenge,component::text_entity,Macro-F1,,0.2603872337654101,450,,
+Fig. 4,a,Controlled challenge,component::graph_anchor_wide,Macro-F1,,0.5148090985827891,450,,
+Fig. 4,a,Controlled challenge,component::same_backbone_no_ecrp,Macro-F1,,0.39013944032528103,450,,
+Fig. 4,b,Primary natural,fusion_retrained::deep_expert_outputs_only,Macro-F1,,0.25122036685793014,600,,
+Fig. 4,b,Primary natural,fusion_retrained::without_passage_local_evidence,Macro-F1,,0.2722671996415815,600,,
+Fig. 4,b,Primary natural,fusion_retrained::without_raw_construction_and_surface_features,Macro-F1,,0.2966695796796184,600,,
+Fig. 4,b,Primary natural,fusion_retrained::without_graph_experts_and_explicit_graph_diagnostics,Macro-F1,,0.30496305275134383,600,,
+Fig. 4,b,Primary natural,fusion_retrained::full,Macro-F1,,0.30808098678067714,600,,
+Fig. 4,b,Primary natural,fusion_retrained::without_ecrp_experts,Macro-F1,,0.3093110662350891,600,,
+Fig. 4,b,Primary natural,fusion_retrained::without_text_expert,Macro-F1,,0.3136651411136537,600,,
+Fig. 4,c,Primary natural,FERA-KG unified fusion,Macro-F1 against original labels,correct,0.30808098678067714,600,,
+Fig. 4,c,Primary natural,FERA-KG unified fusion,Macro-F1 against original labels,shuffled,0.14143515869868134,600,,
+Fig. 4,c,Primary natural,FERA-KG unified fusion,Macro-F1 against original labels,empty,0.18061218513162727,600,,
+Fig. 4,c,Difficulty track,FERA-KG unified fusion,Macro-F1 against original labels,correct,0.31207052185035866,200,,
+Fig. 4,c,Difficulty track,FERA-KG unified fusion,Macro-F1 against original labels,shuffled,0.15988407197198407,200,,
+Fig. 4,c,Difficulty track,FERA-KG unified fusion,Macro-F1 against original labels,empty,0.27897535667963685,200,,
+Fig. 4,d,Primary natural,FERA-KG unified fusion,paired Macro-F1 difference,correct minus shuffled,0.1666458280819958,600,0.088272915113234,0.24324170159511513
+Fig. 4,d,Primary natural,FERA-KG unified fusion,paired Macro-F1 difference,correct minus empty,0.12746880164904986,600,0.062059789909310575,0.19096624819375935
+Fig. 4,d,Difficulty track,FERA-KG unified fusion,paired Macro-F1 difference,correct minus shuffled,0.1521864498783746,200,0.06234421526489451,0.26293401389242377
+Fig. 4,d,Difficulty track,FERA-KG unified fusion,paired Macro-F1 difference,correct minus empty,0.03309516517072181,200,-0.062416051689352596,0.13467011267211518

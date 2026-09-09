@@ -1,0 +1,21 @@
+{
+  "status": "manually_declared_closed_world_for_path_deletion",
+  "interpretation": "Only exact canonical predicate names are treated as equivalent during target-edge deletion. An empty aliases/equivalent_predicates list means that no synonym, alias, or semantic-equivalence expansion was used.",
+  "inverse_edge_policy": "For the queried endpoints, the exact canonical predicate is deleted in both traversal directions. No different predicate is declared as its semantic inverse.",
+  "predicates": [
+    {"canonical_predicate": "recordedInText", "aliases": [], "equivalent_predicates": [], "inverse_predicate": null},
+    {"canonical_predicate": "authoredBy", "aliases": [], "equivalent_predicates": [], "inverse_predicate": null},
+    {"canonical_predicate": "hasEffect", "aliases": [], "equivalent_predicates": [], "inverse_predicate": null},
+    {"canonical_predicate": "treats", "aliases": [], "equivalent_predicates": [], "inverse_predicate": null},
+    {"canonical_predicate": "treatedByRecipe", "aliases": [], "equivalent_predicates": [], "inverse_predicate": null},
+    {"canonical_predicate": "containsIngredient", "aliases": [], "equivalent_predicates": [], "inverse_predicate": null},
+    {"canonical_predicate": "usesCookingMethod", "aliases": [], "equivalent_predicates": [], "inverse_predicate": null},
+    {"canonical_predicate": "correspondsToOrgan", "aliases": [], "equivalent_predicates": [], "inverse_predicate": null},
+    {"canonical_predicate": "contraindicates", "aliases": [], "equivalent_predicates": [], "inverse_predicate": null},
+    {"canonical_predicate": "hasFlavor", "aliases": [], "equivalent_predicates": [], "inverse_predicate": null},
+    {"canonical_predicate": "entersmeridian", "aliases": [], "equivalent_predicates": [], "inverse_predicate": null},
+    {"canonical_predicate": "affectsOrgan", "aliases": [], "equivalent_predicates": [], "inverse_predicate": null},
+    {"canonical_predicate": "recommendsIngredient", "aliases": [], "equivalent_predicates": [], "inverse_predicate": null},
+    {"canonical_predicate": "hasNature", "aliases": [], "equivalent_predicates": [], "inverse_predicate": null}
+  ]
+}

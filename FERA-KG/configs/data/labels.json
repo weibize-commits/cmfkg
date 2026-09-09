@@ -1,0 +1,26 @@
+{
+  "task": "passage_local_relation_verification",
+  "labels": [
+    {
+      "name": "SUPPORTED",
+      "definition": "The passage explicitly or unambiguously supports the proposed typed relation."
+    },
+    {
+      "name": "NOT_SUPPORTED",
+      "definition": "The entities are valid in context, but the proposed relation is contradicted or not licensed by the passage."
+    },
+    {
+      "name": "INSUFFICIENT_CONTEXT",
+      "definition": "The candidate is semantically judgeable, but the supplied passage lacks enough evidence for a supported or not-supported decision."
+    },
+    {
+      "name": "ENTITY_OR_TYPE_ERROR",
+      "definition": "At least one span, entity identity, or entity type makes the candidate invalid before relation assessment."
+    }
+  ],
+  "separate_model_action": {
+    "name": "ABSTAIN",
+    "definition": "A calibrated model action, not a human semantic label."
+  }
+}
+

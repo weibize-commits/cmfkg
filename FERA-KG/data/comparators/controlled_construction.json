@@ -1,0 +1,1850 @@
+{
+  "development_metrics": {
+    "accuracy": 0.6542056074766355,
+    "four_class_macro_f1": 0.6204204903311423,
+    "four_class_weighted_f1": 0.6509676985772896
+  },
+  "development_selected_parameters": {
+    "max_depth": null,
+    "max_features": "sqrt",
+    "min_samples_leaf": 3,
+    "n_estimators": 500,
+    "seed": 20260903
+  },
+  "diagnostic": "artifact-only benchmark-construction baseline",
+  "excluded": [
+    "passage text",
+    "expert probabilities",
+    "local retrieval scores",
+    "proposed-model outputs"
+  ],
+  "features": [
+    "relation",
+    "relation_group",
+    "head_type",
+    "tail_type",
+    "dataset_origin",
+    "provenance_resolution",
+    "signature_known",
+    "signature_valid",
+    "text_length",
+    "head_length",
+    "tail_length",
+    "head_occurrences",
+    "tail_occurrences",
+    "span_distance",
+    "head_position",
+    "tail_position",
+    "replacement_character_rate",
+    "path_count",
+    "passage_conditioned_path_count",
+    "semantic_only_path_count",
+    "actual_typed_mentions",
+    "head_in_actual_inventory",
+    "tail_in_actual_inventory",
+    "enumeration_truncated"
+  ],
+  "predictions": [
+    {
+      "item_id": "TCFT-EVR-0001",
+      "predicted_label": "INSUFFICIENT_CONTEXT"
+    },
+    {
+      "item_id": "TCFT-EVR-0002",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0003",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0004",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0005",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0006",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0007",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0008",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0009",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0010",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0011",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0012",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0013",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0014",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0015",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0016",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0017",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0018",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0019",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0020",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0021",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0022",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0023",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0024",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0025",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0026",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0027",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0028",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0029",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0030",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0031",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0032",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0033",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0034",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0035",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0036",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0037",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0038",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0039",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0040",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0041",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0042",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0043",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0044",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0045",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0046",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0047",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0048",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0049",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0050",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0051",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0052",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0053",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0054",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0055",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0056",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0057",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0058",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0059",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0060",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0061",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0062",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0063",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0064",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0065",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0066",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0067",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0068",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0069",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0070",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0071",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0072",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0073",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0074",
+      "predicted_label": "INSUFFICIENT_CONTEXT"
+    },
+    {
+      "item_id": "TCFT-EVR-0075",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0076",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0077",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0078",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0079",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0080",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0081",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0082",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0083",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0084",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0085",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0086",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0087",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0088",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0089",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0090",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0091",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0092",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0093",
+      "predicted_label": "INSUFFICIENT_CONTEXT"
+    },
+    {
+      "item_id": "TCFT-EVR-0094",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0095",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0096",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0097",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0098",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0099",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0100",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0101",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0102",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0103",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0104",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0105",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0106",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0107",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0108",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0109",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0110",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0111",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0112",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0113",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0114",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0115",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0116",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0117",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0118",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0119",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0120",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0121",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0122",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0123",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0124",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0125",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0126",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0127",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0128",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0129",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0130",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0131",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0132",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0133",
+      "predicted_label": "INSUFFICIENT_CONTEXT"
+    },
+    {
+      "item_id": "TCFT-EVR-0134",
+      "predicted_label": "INSUFFICIENT_CONTEXT"
+    },
+    {
+      "item_id": "TCFT-EVR-0135",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0136",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0137",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0138",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0139",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0140",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0141",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0142",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0143",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0144",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0145",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0146",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0147",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0148",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0149",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0150",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0151",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0152",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0153",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0154",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0155",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0156",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0157",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0158",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0159",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0160",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0161",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0162",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0163",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0164",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0165",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0166",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0167",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0168",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0169",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0170",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0171",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0172",
+      "predicted_label": "INSUFFICIENT_CONTEXT"
+    },
+    {
+      "item_id": "TCFT-EVR-0173",
+      "predicted_label": "INSUFFICIENT_CONTEXT"
+    },
+    {
+      "item_id": "TCFT-EVR-0174",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0175",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0176",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0177",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0178",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0179",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0180",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0181",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0182",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0183",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0184",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0185",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0186",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0187",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0188",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0189",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0190",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0191",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0192",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0193",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0194",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0195",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0196",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0197",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0198",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0199",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0200",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0201",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0202",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0203",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0204",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0205",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0206",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0207",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0208",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0209",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0210",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0211",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0212",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0213",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0214",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0215",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0216",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0217",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0218",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0219",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0220",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0221",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0222",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0223",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0224",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0225",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0226",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0227",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0228",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0229",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0230",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0231",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0232",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0233",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0234",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0235",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0236",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0237",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0238",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0239",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0240",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0241",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0242",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0243",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0244",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0245",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0246",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0247",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0248",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0249",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0250",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0251",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0252",
+      "predicted_label": "INSUFFICIENT_CONTEXT"
+    },
+    {
+      "item_id": "TCFT-EVR-0253",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0254",
+      "predicted_label": "INSUFFICIENT_CONTEXT"
+    },
+    {
+      "item_id": "TCFT-EVR-0255",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0256",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0257",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0258",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0259",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0260",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0261",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0262",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0263",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0264",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0265",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0266",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0267",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0268",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0269",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0270",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0271",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0272",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0273",
+      "predicted_label": "INSUFFICIENT_CONTEXT"
+    },
+    {
+      "item_id": "TCFT-EVR-0274",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0275",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0276",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0277",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0278",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0279",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0280",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0281",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0282",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0283",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0284",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0285",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0286",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0287",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0288",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0289",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0290",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0291",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0292",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0293",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0294",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0295",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0296",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0297",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0298",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0299",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0300",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0301",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0302",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0303",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0304",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0305",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0306",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0307",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0308",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0309",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0310",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0311",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0312",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0313",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0314",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0315",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0316",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0317",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0318",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0319",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0320",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0321",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0322",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0323",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0324",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0325",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0326",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0327",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0328",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0329",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0330",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0331",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0332",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0333",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0334",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0335",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0336",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0337",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0338",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0339",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0340",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0341",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0342",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0343",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0344",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0345",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0346",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0347",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0348",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0349",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0350",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0351",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0352",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0353",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0354",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0355",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0356",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0357",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0358",
+      "predicted_label": "INSUFFICIENT_CONTEXT"
+    },
+    {
+      "item_id": "TCFT-EVR-0359",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0360",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0361",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0362",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0363",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0364",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0365",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0366",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0367",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0368",
+      "predicted_label": "INSUFFICIENT_CONTEXT"
+    },
+    {
+      "item_id": "TCFT-EVR-0369",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0370",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0371",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0372",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0373",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0374",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0375",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0376",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0377",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0378",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0379",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0380",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0381",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0382",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0383",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0384",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0385",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0386",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0387",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0388",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0389",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0390",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0391",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0392",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0393",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0394",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0395",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0396",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0397",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0398",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0399",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0400",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0401",
+      "predicted_label": "INSUFFICIENT_CONTEXT"
+    },
+    {
+      "item_id": "TCFT-EVR-0402",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0403",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0404",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0405",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0406",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0407",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0408",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0409",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0410",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0411",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0412",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0413",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0414",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0415",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0416",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0417",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0418",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0419",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0420",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0421",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0422",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0423",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0424",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0425",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0426",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0427",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0428",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0429",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0430",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0431",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0432",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0433",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0434",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0435",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0436",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0437",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0438",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0439",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0440",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0441",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0442",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0443",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0444",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0445",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0446",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0447",
+      "predicted_label": "ENTITY_OR_TYPE_ERROR"
+    },
+    {
+      "item_id": "TCFT-EVR-0448",
+      "predicted_label": "NOT_SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0449",
+      "predicted_label": "SUPPORTED"
+    },
+    {
+      "item_id": "TCFT-EVR-0450",
+      "predicted_label": "NOT_SUPPORTED"
+    }
+  ],
+  "status": "sealed_before_final_reference_access"
+}

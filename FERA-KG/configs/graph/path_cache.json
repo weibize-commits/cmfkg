@@ -1,0 +1,13 @@
+{
+  "version": "target-deleted-hybrid-paths-v1",
+  "maximum_hops": 3,
+  "maximum_paths_per_item": 32,
+  "passage_conditioned_quota": 16,
+  "semantic_only_quota": 16,
+  "raw_enumeration_cap": 20000,
+  "remove_all_direct_query_predicate_edges_between_endpoints": true,
+  "reject_pure_passage_comention_paths": true,
+  "add_query_endpoints_to_local_passage_node": true,
+  "retain_actual_endpoint_inventory_flags": true,
+  "test_labels_required": false
+}

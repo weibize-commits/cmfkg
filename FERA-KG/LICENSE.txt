@@ -1,0 +1,6 @@
+Copyright (c) 2026. All rights reserved.
+
+The files are made publicly available for transparency and scholarly evaluation.
+No licence to redistribute, modify, sublicense, or use the software or data for
+commercial purposes is granted by this notice. Third-party dependencies and source
+materials remain governed by their respective licences and access conditions.
